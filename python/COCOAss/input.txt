@@ -1,0 +1,15 @@
+# example
+# Sintax for Input sentences:
+#   1.- I structure variable -range range numberOfSteps
+#   2.- I structure variable type1 type2
+#   3.- I structure variable type1 type 2 type 3
+I ar X -2.520318 2.520318 5
+#I ar Z 2930.  2940 5
+I ar Y -9.804389 -7.804389 5 
+# Sintax for Output sentences:
+# O structure variable
+O mab2 X
+O mab2 Y
+O mab2 Z
+
+end

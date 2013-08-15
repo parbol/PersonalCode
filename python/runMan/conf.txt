@@ -1,0 +1,7 @@
+NumberOfJobs 50 
+ReleasePath /afs/cern.ch/cms/CAF/CMSALCA/ALCA_MUONALIGN/SWAlignment/Millepede/CRAFT/GlobalAlignment/CMSSW_2_2_10/src/
+WorkingPath /afs/cern.ch/user/p/pablom/scratch0/working 
+NameOfConf runCheckCollectionCRAFT.py 
+NameOfSource MC.txt  
+CASTORPath /castor/cern.ch/cms/store/caf/user/pablom/MC/
+outputFileName MyNtupleResidual.root 

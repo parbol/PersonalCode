@@ -1,0 +1,6 @@
+NumberOfJobs 1 
+ReleasePath /afs/cern.ch/cms/CAF/CMSALCA/ALCA_MUONALIGN/SWAlignment/Millepede/CRAFT2/CMSSW_2_2_0/src/
+WorkingPath /afs/cern.ch/cms/CAF/CMSALCA/ALCA_MUONALIGN/SWAlignment/Millepede/CRAFT2/CMSSW_2_2_0/src/Alignment/MuonAlignmentAlgorithms/test/
+NameOfConf runCheckCollection.py
+Dataset /Cosmics/Commissioning08_CRAFT_ALL_V4_StreamALCARECOMuAlGlobalCosmics_step3_AlcaReco-v2/ALCARECO
+Runs all 

@@ -1,0 +1,9 @@
+#You have to add this to the Buildfile.xml in Alignment/MuonAlignment/test
+
+<library file="ReadDBToRootFile.cc" name="ReadDBToRootFile">
+  <flags EDM_PLUGIN="1"/>
+</library>
+
+<library file="MakeDBComparison.cc" name="MakeDBComparison">
+  <flags EDM_PLUGIN="1"/>
+</library>
