@@ -1,0 +1,14 @@
+LHEDir /eos/cms/store/group/phys_susy/LHE/gluino_gluino/T14t_Undecayed
+LHEName T5zz
+PYTHIATemplate pythia_decay_template
+LHATemplate SLHATemplate.slha 
+MERGERName mergeLheFiles.cpp 
+SLHAINSERTName InsertSLHA.py
+minP1 400
+maxP1 1500
+stepP1 50
+minP2 100
+maxP2 1400
+stepP2 50
+bannerName banner_template
+leptonFilterName lepton_filter.py
