@@ -1,0 +1,898 @@
+MassSolver_class: constructor executing!
+-------------------------------------------------------------
+Trying jet 0 with jet 1. Score = 1.87873e+09
+Trying jet 1 with jet 0. Score = 1.87873e+09
+Jet 0 and jet 1 were selected.
+Iteration 0 with real MET:(234.465, 181.774) and MET:(-371.43, -192.782), cost 1.87873e+09 and lambda: 1
+X plus: 2.11515e+09 X minus: 1.67365e+09 X plus: 1.96192e+09 X minus: 1.80608e+09
+Iteration 1 with real MET:(234.465, 181.774) and MET:(-370.603, -192.22), cost 1.86443e+09 and lambda: 1
+X plus: 2.09902e+09 X minus: 1.66092e+09 X plus: 1.94687e+09 X minus: 1.79242e+09
+Iteration 2 with real MET:(234.465, 181.774) and MET:(-369.776, -191.658), cost 1.8502e+09 and lambda: 1
+X plus: 2.08298e+09 X minus: 1.64826e+09 X plus: 1.9319e+09 X minus: 1.77884e+09
+Iteration 3 with real MET:(234.465, 181.774) and MET:(-368.948, -191.096), cost 1.83606e+09 and lambda: 1
+X plus: 2.06703e+09 X minus: 1.63567e+09 X plus: 1.91701e+09 X minus: 1.76534e+09
+Iteration 4 with real MET:(234.465, 181.774) and MET:(-368.121, -190.534), cost 1.822e+09 and lambda: 1
+X plus: 2.05117e+09 X minus: 1.62315e+09 X plus: 1.90222e+09 X minus: 1.75191e+09
+Iteration 5 with real MET:(234.465, 181.774) and MET:(-367.294, -189.973), cost 1.80802e+09 and lambda: 1
+X plus: 2.03541e+09 X minus: 1.61071e+09 X plus: 1.88751e+09 X minus: 1.73855e+09
+Iteration 6 with real MET:(234.465, 181.774) and MET:(-366.466, -189.412), cost 1.79412e+09 and lambda: 1
+X plus: 2.01973e+09 X minus: 1.59833e+09 X plus: 1.87288e+09 X minus: 1.72527e+09
+Iteration 7 with real MET:(234.465, 181.774) and MET:(-365.638, -188.851), cost 1.78029e+09 and lambda: 1
+X plus: 2.00414e+09 X minus: 1.58603e+09 X plus: 1.85834e+09 X minus: 1.71207e+09
+Iteration 8 with real MET:(234.465, 181.774) and MET:(-364.81, -188.29), cost 1.76655e+09 and lambda: 1
+X plus: 1.98864e+09 X minus: 1.5738e+09 X plus: 1.84388e+09 X minus: 1.69894e+09
+Iteration 9 with real MET:(234.465, 181.774) and MET:(-363.982, -187.729), cost 1.75289e+09 and lambda: 1
+X plus: 1.97323e+09 X minus: 1.56164e+09 X plus: 1.82951e+09 X minus: 1.68589e+09
+Iteration 10 with real MET:(234.465, 181.774) and MET:(-363.154, -187.169), cost 1.7393e+09 and lambda: 1
+X plus: 1.95791e+09 X minus: 1.54955e+09 X plus: 1.81522e+09 X minus: 1.67291e+09
+Iteration 11 with real MET:(234.465, 181.774) and MET:(-362.325, -186.609), cost 1.72579e+09 and lambda: 1
+X plus: 1.94267e+09 X minus: 1.53752e+09 X plus: 1.80102e+09 X minus: 1.66e+09
+Iteration 12 with real MET:(234.465, 181.774) and MET:(-361.497, -186.049), cost 1.71237e+09 and lambda: 1
+X plus: 1.92753e+09 X minus: 1.52557e+09 X plus: 1.78689e+09 X minus: 1.64717e+09
+Iteration 13 with real MET:(234.465, 181.774) and MET:(-360.668, -185.489), cost 1.69901e+09 and lambda: 1
+X plus: 1.91247e+09 X minus: 1.51369e+09 X plus: 1.77285e+09 X minus: 1.63441e+09
+Iteration 14 with real MET:(234.465, 181.774) and MET:(-359.839, -184.93), cost 1.68574e+09 and lambda: 1
+X plus: 1.8975e+09 X minus: 1.50188e+09 X plus: 1.7589e+09 X minus: 1.62172e+09
+Iteration 15 with real MET:(234.465, 181.774) and MET:(-359.01, -184.37), cost 1.67254e+09 and lambda: 1
+X plus: 1.88261e+09 X minus: 1.49013e+09 X plus: 1.74502e+09 X minus: 1.60911e+09
+Iteration 16 with real MET:(234.465, 181.774) and MET:(-358.181, -183.811), cost 1.65942e+09 and lambda: 1
+X plus: 1.86781e+09 X minus: 1.47846e+09 X plus: 1.73123e+09 X minus: 1.59657e+09
+Iteration 17 with real MET:(234.465, 181.774) and MET:(-357.352, -183.252), cost 1.64638e+09 and lambda: 1
+X plus: 1.8531e+09 X minus: 1.46685e+09 X plus: 1.71752e+09 X minus: 1.5841e+09
+Iteration 18 with real MET:(234.465, 181.774) and MET:(-356.523, -182.694), cost 1.63341e+09 and lambda: 1
+X plus: 1.83848e+09 X minus: 1.45531e+09 X plus: 1.70389e+09 X minus: 1.5717e+09
+Iteration 19 with real MET:(234.465, 181.774) and MET:(-355.693, -182.135), cost 1.62052e+09 and lambda: 1
+X plus: 1.82394e+09 X minus: 1.44384e+09 X plus: 1.69034e+09 X minus: 1.55938e+09
+Iteration 20 with real MET:(234.465, 181.774) and MET:(-354.863, -181.577), cost 1.60771e+09 and lambda: 1
+X plus: 1.80948e+09 X minus: 1.43244e+09 X plus: 1.67687e+09 X minus: 1.54712e+09
+Iteration 21 with real MET:(234.465, 181.774) and MET:(-354.034, -181.019), cost 1.59497e+09 and lambda: 1
+X plus: 1.79511e+09 X minus: 1.4211e+09 X plus: 1.66348e+09 X minus: 1.53494e+09
+Iteration 22 with real MET:(234.465, 181.774) and MET:(-353.204, -180.461), cost 1.5823e+09 and lambda: 1
+X plus: 1.78082e+09 X minus: 1.40983e+09 X plus: 1.65017e+09 X minus: 1.52283e+09
+Iteration 23 with real MET:(234.465, 181.774) and MET:(-352.374, -179.903), cost 1.56971e+09 and lambda: 1
+X plus: 1.76662e+09 X minus: 1.39863e+09 X plus: 1.63694e+09 X minus: 1.51079e+09
+Iteration 24 with real MET:(234.465, 181.774) and MET:(-351.543, -179.346), cost 1.55719e+09 and lambda: 1
+X plus: 1.7525e+09 X minus: 1.3875e+09 X plus: 1.62379e+09 X minus: 1.49882e+09
+Iteration 25 with real MET:(234.465, 181.774) and MET:(-350.713, -178.789), cost 1.54475e+09 and lambda: 1
+X plus: 1.73847e+09 X minus: 1.37643e+09 X plus: 1.61072e+09 X minus: 1.48692e+09
+Iteration 26 with real MET:(234.465, 181.774) and MET:(-349.883, -178.232), cost 1.53238e+09 and lambda: 1
+X plus: 1.72451e+09 X minus: 1.36542e+09 X plus: 1.59773e+09 X minus: 1.47509e+09
+Iteration 27 with real MET:(234.465, 181.774) and MET:(-349.052, -177.675), cost 1.52009e+09 and lambda: 1
+X plus: 1.71065e+09 X minus: 1.35448e+09 X plus: 1.58482e+09 X minus: 1.46333e+09
+Iteration 28 with real MET:(234.465, 181.774) and MET:(-348.221, -177.118), cost 1.50787e+09 and lambda: 1
+X plus: 1.69686e+09 X minus: 1.34361e+09 X plus: 1.57198e+09 X minus: 1.45164e+09
+Iteration 29 with real MET:(234.465, 181.774) and MET:(-347.39, -176.562), cost 1.49572e+09 and lambda: 1
+X plus: 1.68316e+09 X minus: 1.3328e+09 X plus: 1.55922e+09 X minus: 1.44002e+09
+Iteration 30 with real MET:(234.465, 181.774) and MET:(-346.559, -176.005), cost 1.48364e+09 and lambda: 1
+X plus: 1.66953e+09 X minus: 1.32206e+09 X plus: 1.54654e+09 X minus: 1.42847e+09
+Iteration 31 with real MET:(234.465, 181.774) and MET:(-345.728, -175.449), cost 1.47164e+09 and lambda: 1
+X plus: 1.65599e+09 X minus: 1.31138e+09 X plus: 1.53394e+09 X minus: 1.41698e+09
+Iteration 32 with real MET:(234.465, 181.774) and MET:(-344.897, -174.893), cost 1.45971e+09 and lambda: 1
+X plus: 1.64253e+09 X minus: 1.30077e+09 X plus: 1.52141e+09 X minus: 1.40557e+09
+Iteration 33 with real MET:(234.465, 181.774) and MET:(-344.066, -174.338), cost 1.44785e+09 and lambda: 1
+X plus: 1.62916e+09 X minus: 1.29022e+09 X plus: 1.50896e+09 X minus: 1.39422e+09
+Iteration 34 with real MET:(234.465, 181.774) and MET:(-343.234, -173.782), cost 1.43606e+09 and lambda: 1
+X plus: 1.61586e+09 X minus: 1.27973e+09 X plus: 1.49658e+09 X minus: 1.38294e+09
+Iteration 35 with real MET:(234.465, 181.774) and MET:(-342.403, -173.227), cost 1.42435e+09 and lambda: 1
+X plus: 1.60264e+09 X minus: 1.26931e+09 X plus: 1.48428e+09 X minus: 1.37172e+09
+Iteration 36 with real MET:(234.465, 181.774) and MET:(-341.571, -172.672), cost 1.4127e+09 and lambda: 1
+X plus: 1.5895e+09 X minus: 1.25895e+09 X plus: 1.47206e+09 X minus: 1.36058e+09
+Iteration 37 with real MET:(234.465, 181.774) and MET:(-340.739, -172.117), cost 1.40113e+09 and lambda: 1
+X plus: 1.57644e+09 X minus: 1.24866e+09 X plus: 1.45991e+09 X minus: 1.3495e+09
+Iteration 38 with real MET:(234.465, 181.774) and MET:(-339.907, -171.562), cost 1.38962e+09 and lambda: 1
+X plus: 1.56347e+09 X minus: 1.23842e+09 X plus: 1.44784e+09 X minus: 1.33849e+09
+Iteration 39 with real MET:(234.465, 181.774) and MET:(-339.075, -171.007), cost 1.37819e+09 and lambda: 1
+X plus: 1.55057e+09 X minus: 1.22825e+09 X plus: 1.43584e+09 X minus: 1.32754e+09
+Iteration 40 with real MET:(234.465, 181.774) and MET:(-338.243, -170.453), cost 1.36682e+09 and lambda: 1
+X plus: 1.53775e+09 X minus: 1.21814e+09 X plus: 1.42391e+09 X minus: 1.31666e+09
+Iteration 41 with real MET:(234.465, 181.774) and MET:(-337.41, -169.899), cost 1.35553e+09 and lambda: 1
+X plus: 1.525e+09 X minus: 1.2081e+09 X plus: 1.41206e+09 X minus: 1.30585e+09
+Iteration 42 with real MET:(234.465, 181.774) and MET:(-336.578, -169.344), cost 1.3443e+09 and lambda: 1
+X plus: 1.51234e+09 X minus: 1.19811e+09 X plus: 1.40028e+09 X minus: 1.2951e+09
+Iteration 43 with real MET:(234.465, 181.774) and MET:(-335.745, -168.791), cost 1.33315e+09 and lambda: 1
+X plus: 1.49975e+09 X minus: 1.18819e+09 X plus: 1.38858e+09 X minus: 1.28442e+09
+Iteration 44 with real MET:(234.465, 181.774) and MET:(-334.913, -168.237), cost 1.32206e+09 and lambda: 1
+X plus: 1.48725e+09 X minus: 1.17833e+09 X plus: 1.37694e+09 X minus: 1.2738e+09
+Iteration 45 with real MET:(234.465, 181.774) and MET:(-334.08, -167.683), cost 1.31104e+09 and lambda: 1
+X plus: 1.47481e+09 X minus: 1.16852e+09 X plus: 1.36538e+09 X minus: 1.26325e+09
+Iteration 46 with real MET:(234.465, 181.774) and MET:(-333.247, -167.13), cost 1.30009e+09 and lambda: 1
+X plus: 1.46246e+09 X minus: 1.15878e+09 X plus: 1.3539e+09 X minus: 1.25276e+09
+Iteration 47 with real MET:(234.465, 181.774) and MET:(-332.414, -166.577), cost 1.28921e+09 and lambda: 1
+X plus: 1.45018e+09 X minus: 1.1491e+09 X plus: 1.34248e+09 X minus: 1.24234e+09
+Iteration 48 with real MET:(234.465, 181.774) and MET:(-331.581, -166.024), cost 1.27839e+09 and lambda: 1
+X plus: 1.43798e+09 X minus: 1.13948e+09 X plus: 1.33114e+09 X minus: 1.23198e+09
+Iteration 49 with real MET:(234.465, 181.774) and MET:(-330.747, -165.471), cost 1.26764e+09 and lambda: 1
+X plus: 1.42585e+09 X minus: 1.12992e+09 X plus: 1.31987e+09 X minus: 1.22168e+09
+Iteration 50 with real MET:(234.465, 181.774) and MET:(-329.914, -164.918), cost 1.25696e+09 and lambda: 1
+X plus: 1.4138e+09 X minus: 1.12042e+09 X plus: 1.30867e+09 X minus: 1.21145e+09
+Iteration 51 with real MET:(234.465, 181.774) and MET:(-329.08, -164.366), cost 1.24635e+09 and lambda: 1
+X plus: 1.40183e+09 X minus: 1.11098e+09 X plus: 1.29754e+09 X minus: 1.20128e+09
+Iteration 52 with real MET:(234.465, 181.774) and MET:(-328.247, -163.813), cost 1.2358e+09 and lambda: 1
+X plus: 1.38993e+09 X minus: 1.1016e+09 X plus: 1.28648e+09 X minus: 1.19117e+09
+Iteration 53 with real MET:(234.465, 181.774) and MET:(-327.413, -163.261), cost 1.22532e+09 and lambda: 1
+X plus: 1.3781e+09 X minus: 1.09228e+09 X plus: 1.27549e+09 X minus: 1.18113e+09
+Iteration 54 with real MET:(234.465, 181.774) and MET:(-326.579, -162.709), cost 1.2149e+09 and lambda: 1
+X plus: 1.36635e+09 X minus: 1.08301e+09 X plus: 1.26457e+09 X minus: 1.17115e+09
+Iteration 55 with real MET:(234.465, 181.774) and MET:(-325.745, -162.157), cost 1.20455e+09 and lambda: 1
+X plus: 1.35468e+09 X minus: 1.07381e+09 X plus: 1.25372e+09 X minus: 1.16123e+09
+Iteration 56 with real MET:(234.465, 181.774) and MET:(-324.911, -161.605), cost 1.19426e+09 and lambda: 1
+X plus: 1.34307e+09 X minus: 1.06466e+09 X plus: 1.24294e+09 X minus: 1.15138e+09
+Iteration 57 with real MET:(234.465, 181.774) and MET:(-324.077, -161.054), cost 1.18404e+09 and lambda: 1
+X plus: 1.33154e+09 X minus: 1.05557e+09 X plus: 1.23223e+09 X minus: 1.14158e+09
+Iteration 58 with real MET:(234.465, 181.774) and MET:(-323.243, -160.503), cost 1.17389e+09 and lambda: 1
+X plus: 1.32009e+09 X minus: 1.04654e+09 X plus: 1.22158e+09 X minus: 1.13185e+09
+Iteration 59 with real MET:(234.465, 181.774) and MET:(-322.409, -159.951), cost 1.1638e+09 and lambda: 1
+X plus: 1.3087e+09 X minus: 1.03757e+09 X plus: 1.21101e+09 X minus: 1.12218e+09
+Iteration 60 with real MET:(234.465, 181.774) and MET:(-321.574, -159.4), cost 1.15377e+09 and lambda: 1
+X plus: 1.29739e+09 X minus: 1.02865e+09 X plus: 1.2005e+09 X minus: 1.11257e+09
+Iteration 61 with real MET:(234.465, 181.774) and MET:(-320.74, -158.849), cost 1.14381e+09 and lambda: 1
+X plus: 1.28615e+09 X minus: 1.01979e+09 X plus: 1.19006e+09 X minus: 1.10302e+09
+Iteration 62 with real MET:(234.465, 181.774) and MET:(-319.905, -158.299), cost 1.13391e+09 and lambda: 1
+X plus: 1.27499e+09 X minus: 1.01099e+09 X plus: 1.17969e+09 X minus: 1.09353e+09
+Iteration 63 with real MET:(234.465, 181.774) and MET:(-319.07, -157.748), cost 1.12408e+09 and lambda: 1
+X plus: 1.26389e+09 X minus: 1.00224e+09 X plus: 1.16939e+09 X minus: 1.0841e+09
+Iteration 64 with real MET:(234.465, 181.774) and MET:(-318.235, -157.198), cost 1.1143e+09 and lambda: 1
+X plus: 1.25287e+09 X minus: 9.93549e+08 X plus: 1.15915e+09 X minus: 1.07473e+09
+Iteration 65 with real MET:(234.465, 181.774) and MET:(-317.4, -156.647), cost 1.1046e+09 and lambda: 1
+X plus: 1.24192e+09 X minus: 9.84914e+08 X plus: 1.14898e+09 X minus: 1.06542e+09
+Iteration 66 with real MET:(234.465, 181.774) and MET:(-316.565, -156.097), cost 1.09495e+09 and lambda: 1
+X plus: 1.23104e+09 X minus: 9.76335e+08 X plus: 1.13888e+09 X minus: 1.05617e+09
+Iteration 67 with real MET:(234.465, 181.774) and MET:(-315.73, -155.547), cost 1.08537e+09 and lambda: 1
+X plus: 1.22022e+09 X minus: 9.67812e+08 X plus: 1.12884e+09 X minus: 1.04698e+09
+Iteration 68 with real MET:(234.465, 181.774) and MET:(-314.895, -154.997), cost 1.07584e+09 and lambda: 1
+X plus: 1.20948e+09 X minus: 9.59344e+08 X plus: 1.11887e+09 X minus: 1.03785e+09
+Iteration 69 with real MET:(234.465, 181.774) and MET:(-314.059, -154.448), cost 1.06638e+09 and lambda: 1
+X plus: 1.19881e+09 X minus: 9.50931e+08 X plus: 1.10896e+09 X minus: 1.02878e+09
+Iteration 70 with real MET:(234.465, 181.774) and MET:(-313.224, -153.898), cost 1.05699e+09 and lambda: 1
+X plus: 1.18821e+09 X minus: 9.42572e+08 X plus: 1.09912e+09 X minus: 1.01977e+09
+Iteration 71 with real MET:(234.465, 181.774) and MET:(-312.388, -153.349), cost 1.04765e+09 and lambda: 1
+X plus: 1.17768e+09 X minus: 9.34269e+08 X plus: 1.08934e+09 X minus: 1.01081e+09
+Iteration 72 with real MET:(234.465, 181.774) and MET:(-311.553, -152.8), cost 1.03837e+09 and lambda: 1
+X plus: 1.16721e+09 X minus: 9.26019e+08 X plus: 1.07963e+09 X minus: 1.00191e+09
+Iteration 73 with real MET:(234.465, 181.774) and MET:(-310.717, -152.25), cost 1.02916e+09 and lambda: 1
+X plus: 1.15682e+09 X minus: 9.17824e+08 X plus: 1.06998e+09 X minus: 9.93073e+08
+Iteration 74 with real MET:(234.465, 181.774) and MET:(-309.881, -151.702), cost 1.02e+09 and lambda: 1
+X plus: 1.14649e+09 X minus: 9.09682e+08 X plus: 1.0604e+09 X minus: 9.84291e+08
+Iteration 75 with real MET:(234.465, 181.774) and MET:(-309.045, -151.153), cost 1.01091e+09 and lambda: 1
+X plus: 1.13624e+09 X minus: 9.01595e+08 X plus: 1.05088e+09 X minus: 9.75567e+08
+Iteration 76 with real MET:(234.465, 181.774) and MET:(-308.209, -150.604), cost 1.00188e+09 and lambda: 1
+X plus: 1.12605e+09 X minus: 8.9356e+08 X plus: 1.04142e+09 X minus: 9.66899e+08
+Iteration 77 with real MET:(234.465, 181.774) and MET:(-307.373, -150.056), cost 9.92902e+08 and lambda: 1
+X plus: 1.11592e+09 X minus: 8.85579e+08 X plus: 1.03203e+09 X minus: 9.58289e+08
+Iteration 78 with real MET:(234.465, 181.774) and MET:(-306.537, -149.507), cost 9.83987e+08 and lambda: 1
+X plus: 1.10587e+09 X minus: 8.7765e+08 X plus: 1.0227e+09 X minus: 9.49734e+08
+Iteration 79 with real MET:(234.465, 181.774) and MET:(-305.7, -148.959), cost 9.75131e+08 and lambda: 1
+X plus: 1.09588e+09 X minus: 8.69774e+08 X plus: 1.01343e+09 X minus: 9.41237e+08
+Iteration 80 with real MET:(234.465, 181.774) and MET:(-304.864, -148.411), cost 9.66335e+08 and lambda: 1
+X plus: 1.08596e+09 X minus: 8.61951e+08 X plus: 1.00423e+09 X minus: 9.32795e+08
+Iteration 81 with real MET:(234.465, 181.774) and MET:(-304.027, -147.863), cost 9.57597e+08 and lambda: 1
+X plus: 1.0761e+09 X minus: 8.54179e+08 X plus: 9.95086e+08 X minus: 9.24409e+08
+Iteration 82 with real MET:(234.465, 181.774) and MET:(-303.191, -147.315), cost 9.48917e+08 and lambda: 1
+X plus: 1.06631e+09 X minus: 8.4646e+08 X plus: 9.86004e+08 X minus: 9.16079e+08
+Iteration 83 with real MET:(234.465, 181.774) and MET:(-302.354, -146.767), cost 9.40296e+08 and lambda: 1
+X plus: 1.05659e+09 X minus: 8.38793e+08 X plus: 9.76985e+08 X minus: 9.07804e+08
+Iteration 84 with real MET:(234.465, 181.774) and MET:(-301.517, -146.22), cost 9.31733e+08 and lambda: 1
+X plus: 1.04693e+09 X minus: 8.31177e+08 X plus: 9.68026e+08 X minus: 8.99584e+08
+Iteration 85 with real MET:(234.465, 181.774) and MET:(-300.68, -145.672), cost 9.23227e+08 and lambda: 1
+X plus: 1.03734e+09 X minus: 8.23612e+08 X plus: 9.59129e+08 X minus: 8.9142e+08
+Iteration 86 with real MET:(234.465, 181.774) and MET:(-299.844, -145.125), cost 9.14779e+08 and lambda: 1
+X plus: 1.02781e+09 X minus: 8.16098e+08 X plus: 9.50292e+08 X minus: 8.83309e+08
+Iteration 87 with real MET:(234.465, 181.774) and MET:(-299.007, -144.578), cost 9.06388e+08 and lambda: 1
+X plus: 1.01834e+09 X minus: 8.08635e+08 X plus: 9.41515e+08 X minus: 8.75254e+08
+Iteration 88 with real MET:(234.465, 181.774) and MET:(-298.169, -144.031), cost 8.98054e+08 and lambda: 1
+X plus: 1.00895e+09 X minus: 8.01222e+08 X plus: 9.32799e+08 X minus: 8.67252e+08
+Iteration 89 with real MET:(234.465, 181.774) and MET:(-297.332, -143.484), cost 8.89776e+08 and lambda: 1
+X plus: 9.9961e+08 X minus: 7.9386e+08 X plus: 9.24143e+08 X minus: 8.59305e+08
+Iteration 90 with real MET:(234.465, 181.774) and MET:(-296.495, -142.937), cost 8.81555e+08 and lambda: 1
+X plus: 9.90339e+08 X minus: 7.86548e+08 X plus: 9.15546e+08 X minus: 8.51411e+08
+Iteration 91 with real MET:(234.465, 181.774) and MET:(-295.658, -142.391), cost 8.7339e+08 and lambda: 1
+X plus: 9.81131e+08 X minus: 7.79286e+08 X plus: 9.07008e+08 X minus: 8.4357e+08
+Iteration 92 with real MET:(234.465, 181.774) and MET:(-294.82, -141.844), cost 8.65282e+08 and lambda: 1
+X plus: 9.71986e+08 X minus: 7.72074e+08 X plus: 8.9853e+08 X minus: 8.35783e+08
+Iteration 93 with real MET:(234.465, 181.774) and MET:(-293.983, -141.298), cost 8.57228e+08 and lambda: 1
+X plus: 9.62904e+08 X minus: 7.64911e+08 X plus: 8.9011e+08 X minus: 8.28049e+08
+Iteration 94 with real MET:(234.465, 181.774) and MET:(-293.145, -140.751), cost 8.4923e+08 and lambda: 1
+X plus: 9.53885e+08 X minus: 7.57797e+08 X plus: 8.81749e+08 X minus: 8.20368e+08
+Iteration 95 with real MET:(234.465, 181.774) and MET:(-292.307, -140.205), cost 8.41288e+08 and lambda: 1
+X plus: 9.44928e+08 X minus: 7.50732e+08 X plus: 8.73445e+08 X minus: 8.12739e+08
+Iteration 96 with real MET:(234.465, 181.774) and MET:(-291.469, -139.659), cost 8.334e+08 and lambda: 1
+X plus: 9.36034e+08 X minus: 7.43716e+08 X plus: 8.652e+08 X minus: 8.05163e+08
+Iteration 97 with real MET:(234.465, 181.774) and MET:(-290.632, -139.113), cost 8.25567e+08 and lambda: 1
+X plus: 9.27201e+08 X minus: 7.36749e+08 X plus: 8.57013e+08 X minus: 7.97638e+08
+Iteration 98 with real MET:(234.465, 181.774) and MET:(-289.794, -138.568), cost 8.17788e+08 and lambda: 1
+X plus: 9.18429e+08 X minus: 7.2983e+08 X plus: 8.48883e+08 X minus: 7.90165e+08
+Iteration 99 with real MET:(234.465, 181.774) and MET:(-288.956, -138.022), cost 8.10063e+08 and lambda: 1
+X plus: 9.09719e+08 X minus: 7.22959e+08 X plus: 8.4081e+08 X minus: 7.82744e+08
+Iteration 100 with real MET:(234.465, 181.774) and MET:(-288.118, -137.476), cost 8.02392e+08 and lambda: 1
+X plus: 9.0107e+08 X minus: 7.16135e+08 X plus: 8.32794e+08 X minus: 7.75375e+08
+Iteration 101 with real MET:(234.465, 181.774) and MET:(-287.279, -136.931), cost 7.94775e+08 and lambda: 1
+X plus: 8.92481e+08 X minus: 7.0936e+08 X plus: 8.24835e+08 X minus: 7.68056e+08
+Iteration 102 with real MET:(234.465, 181.774) and MET:(-286.441, -136.386), cost 7.87212e+08 and lambda: 1
+X plus: 8.83953e+08 X minus: 7.02632e+08 X plus: 8.16932e+08 X minus: 7.60789e+08
+Iteration 103 with real MET:(234.465, 181.774) and MET:(-285.603, -135.841), cost 7.79701e+08 and lambda: 1
+X plus: 8.75485e+08 X minus: 6.95951e+08 X plus: 8.09085e+08 X minus: 7.53572e+08
+Iteration 104 with real MET:(234.465, 181.774) and MET:(-284.764, -135.296), cost 7.72243e+08 and lambda: 1
+X plus: 8.67077e+08 X minus: 6.89317e+08 X plus: 8.01293e+08 X minus: 7.46405e+08
+Iteration 105 with real MET:(234.465, 181.774) and MET:(-283.926, -134.751), cost 7.64839e+08 and lambda: 1
+X plus: 8.58728e+08 X minus: 6.8273e+08 X plus: 7.93558e+08 X minus: 7.39289e+08
+Iteration 106 with real MET:(234.465, 181.774) and MET:(-283.087, -134.206), cost 7.57486e+08 and lambda: 1
+X plus: 8.50439e+08 X minus: 6.76189e+08 X plus: 7.85877e+08 X minus: 7.32223e+08
+Iteration 107 with real MET:(234.465, 181.774) and MET:(-282.249, -133.661), cost 7.50186e+08 and lambda: 1
+X plus: 8.42209e+08 X minus: 6.69695e+08 X plus: 7.78252e+08 X minus: 7.25206e+08
+Iteration 108 with real MET:(234.465, 181.774) and MET:(-281.41, -133.117), cost 7.42937e+08 and lambda: 1
+X plus: 8.34037e+08 X minus: 6.63247e+08 X plus: 7.70682e+08 X minus: 7.18239e+08
+Iteration 109 with real MET:(234.465, 181.774) and MET:(-280.571, -132.572), cost 7.35741e+08 and lambda: 1
+X plus: 8.25924e+08 X minus: 6.56844e+08 X plus: 7.63166e+08 X minus: 7.11321e+08
+Iteration 110 with real MET:(234.465, 181.774) and MET:(-279.732, -132.028), cost 7.28595e+08 and lambda: 1
+X plus: 8.17869e+08 X minus: 6.50488e+08 X plus: 7.55704e+08 X minus: 7.04453e+08
+Iteration 111 with real MET:(234.465, 181.774) and MET:(-278.893, -131.483), cost 7.21501e+08 and lambda: 1
+X plus: 8.09872e+08 X minus: 6.44176e+08 X plus: 7.48296e+08 X minus: 6.97633e+08
+Iteration 112 with real MET:(234.465, 181.774) and MET:(-278.054, -130.939), cost 7.14458e+08 and lambda: 1
+X plus: 8.01933e+08 X minus: 6.37911e+08 X plus: 7.40942e+08 X minus: 6.90862e+08
+Iteration 113 with real MET:(234.465, 181.774) and MET:(-277.215, -130.395), cost 7.07466e+08 and lambda: 1
+X plus: 7.94051e+08 X minus: 6.3169e+08 X plus: 7.33641e+08 X minus: 6.84139e+08
+Iteration 114 with real MET:(234.465, 181.774) and MET:(-276.376, -129.851), cost 7.00524e+08 and lambda: 1
+X plus: 7.86226e+08 X minus: 6.25514e+08 X plus: 7.26394e+08 X minus: 6.77464e+08
+Iteration 115 with real MET:(234.465, 181.774) and MET:(-275.537, -129.308), cost 6.93633e+08 and lambda: 1
+X plus: 7.78458e+08 X minus: 6.19382e+08 X plus: 7.19199e+08 X minus: 6.70838e+08
+Iteration 116 with real MET:(234.465, 181.774) and MET:(-274.698, -128.764), cost 6.86791e+08 and lambda: 1
+X plus: 7.70746e+08 X minus: 6.13295e+08 X plus: 7.12058e+08 X minus: 6.64259e+08
+Iteration 117 with real MET:(234.465, 181.774) and MET:(-273.858, -128.22), cost 6.79999e+08 and lambda: 1
+X plus: 7.63091e+08 X minus: 6.07252e+08 X plus: 7.04968e+08 X minus: 6.57727e+08
+Iteration 118 with real MET:(234.465, 181.774) and MET:(-273.019, -127.677), cost 6.73257e+08 and lambda: 1
+X plus: 7.55492e+08 X minus: 6.01253e+08 X plus: 6.97931e+08 X minus: 6.51243e+08
+Iteration 119 with real MET:(234.465, 181.774) and MET:(-272.18, -127.133), cost 6.66564e+08 and lambda: 1
+X plus: 7.47949e+08 X minus: 5.95298e+08 X plus: 6.90946e+08 X minus: 6.44806e+08
+Iteration 120 with real MET:(234.465, 181.774) and MET:(-271.34, -126.59), cost 6.5992e+08 and lambda: 1
+X plus: 7.40461e+08 X minus: 5.89386e+08 X plus: 6.84012e+08 X minus: 6.38416e+08
+Iteration 121 with real MET:(234.465, 181.774) and MET:(-270.5, -126.047), cost 6.53325e+08 and lambda: 1
+X plus: 7.33029e+08 X minus: 5.83518e+08 X plus: 6.7713e+08 X minus: 6.32072e+08
+Iteration 122 with real MET:(234.465, 181.774) and MET:(-269.661, -125.504), cost 6.46779e+08 and lambda: 1
+X plus: 7.25651e+08 X minus: 5.77693e+08 X plus: 6.70299e+08 X minus: 6.25775e+08
+Iteration 123 with real MET:(234.465, 181.774) and MET:(-268.821, -124.961), cost 6.40281e+08 and lambda: 1
+X plus: 7.18328e+08 X minus: 5.7191e+08 X plus: 6.63519e+08 X minus: 6.19524e+08
+Iteration 124 with real MET:(234.465, 181.774) and MET:(-267.981, -124.418), cost 6.33831e+08 and lambda: 1
+X plus: 7.1106e+08 X minus: 5.66171e+08 X plus: 6.5679e+08 X minus: 6.13318e+08
+Iteration 125 with real MET:(234.465, 181.774) and MET:(-267.141, -123.875), cost 6.27428e+08 and lambda: 1
+X plus: 7.03845e+08 X minus: 5.60474e+08 X plus: 6.50111e+08 X minus: 6.07159e+08
+Iteration 126 with real MET:(234.465, 181.774) and MET:(-266.301, -123.333), cost 6.21074e+08 and lambda: 1
+X plus: 6.96685e+08 X minus: 5.54819e+08 X plus: 6.43482e+08 X minus: 6.01045e+08
+Iteration 127 with real MET:(234.465, 181.774) and MET:(-265.461, -122.79), cost 6.14767e+08 and lambda: 1
+X plus: 6.89578e+08 X minus: 5.49206e+08 X plus: 6.36903e+08 X minus: 5.94976e+08
+Iteration 128 with real MET:(234.465, 181.774) and MET:(-264.621, -122.248), cost 6.08507e+08 and lambda: 1
+X plus: 6.82525e+08 X minus: 5.43635e+08 X plus: 6.30374e+08 X minus: 5.88953e+08
+Iteration 129 with real MET:(234.465, 181.774) and MET:(-263.781, -121.705), cost 6.02294e+08 and lambda: 1
+X plus: 6.75525e+08 X minus: 5.38106e+08 X plus: 6.23894e+08 X minus: 5.82974e+08
+Iteration 130 with real MET:(234.465, 181.774) and MET:(-262.941, -121.163), cost 5.96128e+08 and lambda: 1
+X plus: 6.68577e+08 X minus: 5.32618e+08 X plus: 6.17464e+08 X minus: 5.7704e+08
+Iteration 131 with real MET:(234.465, 181.774) and MET:(-262.101, -120.621), cost 5.90008e+08 and lambda: 1
+X plus: 6.61682e+08 X minus: 5.27172e+08 X plus: 6.11082e+08 X minus: 5.7115e+08
+Iteration 132 with real MET:(234.465, 181.774) and MET:(-261.26, -120.079), cost 5.83935e+08 and lambda: 1
+X plus: 6.5484e+08 X minus: 5.21766e+08 X plus: 6.04749e+08 X minus: 5.65304e+08
+Iteration 133 with real MET:(234.465, 181.774) and MET:(-260.42, -119.537), cost 5.77908e+08 and lambda: 1
+X plus: 6.4805e+08 X minus: 5.16402e+08 X plus: 5.98464e+08 X minus: 5.59503e+08
+Iteration 134 with real MET:(234.465, 181.774) and MET:(-259.579, -118.995), cost 5.71926e+08 and lambda: 1
+X plus: 6.41311e+08 X minus: 5.11078e+08 X plus: 5.92228e+08 X minus: 5.53745e+08
+Iteration 135 with real MET:(234.465, 181.774) and MET:(-258.739, -118.453), cost 5.6599e+08 and lambda: 1
+X plus: 6.34624e+08 X minus: 5.05794e+08 X plus: 5.86039e+08 X minus: 5.48031e+08
+Iteration 136 with real MET:(234.465, 181.774) and MET:(-257.898, -117.911), cost 5.60099e+08 and lambda: 1
+X plus: 6.27989e+08 X minus: 5.00551e+08 X plus: 5.79899e+08 X minus: 5.4236e+08
+Iteration 137 with real MET:(234.465, 181.774) and MET:(-257.058, -117.37), cost 5.54254e+08 and lambda: 1
+X plus: 6.21404e+08 X minus: 4.95348e+08 X plus: 5.73805e+08 X minus: 5.36732e+08
+Iteration 138 with real MET:(234.465, 181.774) and MET:(-256.217, -116.828), cost 5.48453e+08 and lambda: 1
+X plus: 6.14871e+08 X minus: 4.90184e+08 X plus: 5.67759e+08 X minus: 5.31147e+08
+Iteration 139 with real MET:(234.465, 181.774) and MET:(-255.376, -116.287), cost 5.42697e+08 and lambda: 1
+X plus: 6.08387e+08 X minus: 4.8506e+08 X plus: 5.6176e+08 X minus: 5.25605e+08
+Iteration 140 with real MET:(234.465, 181.774) and MET:(-254.535, -115.746), cost 5.36986e+08 and lambda: 1
+X plus: 6.01954e+08 X minus: 4.79976e+08 X plus: 5.55808e+08 X minus: 5.20105e+08
+Iteration 141 with real MET:(234.465, 181.774) and MET:(-253.694, -115.204), cost 5.31319e+08 and lambda: 1
+X plus: 5.95572e+08 X minus: 4.74931e+08 X plus: 5.49902e+08 X minus: 5.14648e+08
+Iteration 142 with real MET:(234.465, 181.774) and MET:(-252.854, -114.663), cost 5.25695e+08 and lambda: 1
+X plus: 5.89239e+08 X minus: 4.69925e+08 X plus: 5.44043e+08 X minus: 5.09233e+08
+Iteration 143 with real MET:(234.465, 181.774) and MET:(-252.013, -114.122), cost 5.20116e+08 and lambda: 1
+X plus: 5.82955e+08 X minus: 4.64957e+08 X plus: 5.38229e+08 X minus: 5.03859e+08
+Iteration 144 with real MET:(234.465, 181.774) and MET:(-251.172, -113.581), cost 5.1458e+08 and lambda: 1
+X plus: 5.76721e+08 X minus: 4.60029e+08 X plus: 5.32461e+08 X minus: 4.98527e+08
+Iteration 145 with real MET:(234.465, 181.774) and MET:(-250.33, -113.04), cost 5.09088e+08 and lambda: 1
+X plus: 5.70535e+08 X minus: 4.55139e+08 X plus: 5.26739e+08 X minus: 4.93237e+08
+Iteration 146 with real MET:(234.465, 181.774) and MET:(-249.489, -112.499), cost 5.03638e+08 and lambda: 1
+X plus: 5.64399e+08 X minus: 4.50287e+08 X plus: 5.21062e+08 X minus: 4.87988e+08
+Iteration 147 with real MET:(234.465, 181.774) and MET:(-248.648, -111.959), cost 4.98232e+08 and lambda: 1
+X plus: 5.58311e+08 X minus: 4.45473e+08 X plus: 5.1543e+08 X minus: 4.8278e+08
+Iteration 148 with real MET:(234.465, 181.774) and MET:(-247.807, -111.418), cost 4.92868e+08 and lambda: 1
+X plus: 5.52271e+08 X minus: 4.40697e+08 X plus: 5.09843e+08 X minus: 4.77612e+08
+Iteration 149 with real MET:(234.465, 181.774) and MET:(-246.965, -110.878), cost 4.87546e+08 and lambda: 1
+X plus: 5.4628e+08 X minus: 4.35958e+08 X plus: 5.04301e+08 X minus: 4.72486e+08
+Iteration 150 with real MET:(234.465, 181.774) and MET:(-246.124, -110.337), cost 4.82267e+08 and lambda: 1
+X plus: 5.40336e+08 X minus: 4.31257e+08 X plus: 4.98803e+08 X minus: 4.67399e+08
+Iteration 151 with real MET:(234.465, 181.774) and MET:(-245.283, -109.797), cost 4.7703e+08 and lambda: 1
+X plus: 5.3444e+08 X minus: 4.26594e+08 X plus: 4.93349e+08 X minus: 4.62353e+08
+Iteration 152 with real MET:(234.465, 181.774) and MET:(-244.441, -109.256), cost 4.71834e+08 and lambda: 1
+X plus: 5.28591e+08 X minus: 4.21967e+08 X plus: 4.87939e+08 X minus: 4.57347e+08
+Iteration 153 with real MET:(234.465, 181.774) and MET:(-243.6, -108.716), cost 4.6668e+08 and lambda: 1
+X plus: 5.22789e+08 X minus: 4.17377e+08 X plus: 4.82573e+08 X minus: 4.5238e+08
+Iteration 154 with real MET:(234.465, 181.774) and MET:(-242.758, -108.176), cost 4.61568e+08 and lambda: 1
+X plus: 5.17033e+08 X minus: 4.12824e+08 X plus: 4.7725e+08 X minus: 4.47454e+08
+Iteration 155 with real MET:(234.465, 181.774) and MET:(-241.916, -107.636), cost 4.56497e+08 and lambda: 1
+X plus: 5.11325e+08 X minus: 4.08308e+08 X plus: 4.7197e+08 X minus: 4.42566e+08
+Iteration 156 with real MET:(234.465, 181.774) and MET:(-241.075, -107.096), cost 4.51466e+08 and lambda: 1
+X plus: 5.05662e+08 X minus: 4.03827e+08 X plus: 4.66733e+08 X minus: 4.37718e+08
+Iteration 157 with real MET:(234.465, 181.774) and MET:(-240.233, -106.556), cost 4.46476e+08 and lambda: 1
+X plus: 5.00046e+08 X minus: 3.99383e+08 X plus: 4.61539e+08 X minus: 4.32908e+08
+Iteration 158 with real MET:(234.465, 181.774) and MET:(-239.391, -106.016), cost 4.41527e+08 and lambda: 1
+X plus: 4.94476e+08 X minus: 3.94975e+08 X plus: 4.56388e+08 X minus: 4.28138e+08
+Iteration 159 with real MET:(234.465, 181.774) and MET:(-238.549, -105.477), cost 4.36618e+08 and lambda: 1
+X plus: 4.88951e+08 X minus: 3.90603e+08 X plus: 4.51279e+08 X minus: 4.23406e+08
+Iteration 160 with real MET:(234.465, 181.774) and MET:(-237.707, -104.937), cost 4.31749e+08 and lambda: 1
+X plus: 4.83471e+08 X minus: 3.86266e+08 X plus: 4.46212e+08 X minus: 4.18712e+08
+Iteration 161 with real MET:(234.465, 181.774) and MET:(-236.866, -104.398), cost 4.2692e+08 and lambda: 1
+X plus: 4.78037e+08 X minus: 3.81964e+08 X plus: 4.41186e+08 X minus: 4.14056e+08
+Iteration 162 with real MET:(234.465, 181.774) and MET:(-236.024, -103.858), cost 4.22131e+08 and lambda: 1
+X plus: 4.72647e+08 X minus: 3.77697e+08 X plus: 4.36203e+08 X minus: 4.09439e+08
+Iteration 163 with real MET:(234.465, 181.774) and MET:(-235.181, -103.319), cost 4.17381e+08 and lambda: 1
+X plus: 4.67302e+08 X minus: 3.73466e+08 X plus: 4.3126e+08 X minus: 4.04859e+08
+Iteration 164 with real MET:(234.465, 181.774) and MET:(-234.339, -102.779), cost 4.1267e+08 and lambda: 1
+X plus: 4.62001e+08 X minus: 3.69269e+08 X plus: 4.26359e+08 X minus: 4.00316e+08
+Iteration 165 with real MET:(234.465, 181.774) and MET:(-233.497, -102.24), cost 4.07998e+08 and lambda: 1
+X plus: 4.56745e+08 X minus: 3.65107e+08 X plus: 4.21499e+08 X minus: 3.95811e+08
+Iteration 166 with real MET:(234.465, 181.774) and MET:(-232.655, -101.701), cost 4.03366e+08 and lambda: 1
+X plus: 4.51532e+08 X minus: 3.60979e+08 X plus: 4.1668e+08 X minus: 3.91343e+08
+Iteration 167 with real MET:(234.465, 181.774) and MET:(-231.813, -101.162), cost 3.98771e+08 and lambda: 1
+X plus: 4.46363e+08 X minus: 3.56886e+08 X plus: 4.11901e+08 X minus: 3.86913e+08
+Iteration 168 with real MET:(234.465, 181.774) and MET:(-230.97, -100.623), cost 3.94215e+08 and lambda: 1
+X plus: 4.41238e+08 X minus: 3.52827e+08 X plus: 4.07162e+08 X minus: 3.82518e+08
+Iteration 169 with real MET:(234.465, 181.774) and MET:(-230.128, -100.084), cost 3.89697e+08 and lambda: 1
+X plus: 4.36155e+08 X minus: 3.48801e+08 X plus: 4.02463e+08 X minus: 3.78161e+08
+Iteration 170 with real MET:(234.465, 181.774) and MET:(-229.286, -99.545), cost 3.85217e+08 and lambda: 1
+X plus: 4.31116e+08 X minus: 3.44809e+08 X plus: 3.97804e+08 X minus: 3.7384e+08
+Iteration 171 with real MET:(234.465, 181.774) and MET:(-228.443, -99.0062), cost 3.80775e+08 and lambda: 1
+X plus: 4.26119e+08 X minus: 3.40851e+08 X plus: 3.93185e+08 X minus: 3.69554e+08
+Iteration 172 with real MET:(234.465, 181.774) and MET:(-227.601, -98.4675), cost 3.76371e+08 and lambda: 1
+X plus: 4.21165e+08 X minus: 3.36925e+08 X plus: 3.88605e+08 X minus: 3.65305e+08
+Iteration 173 with real MET:(234.465, 181.774) and MET:(-226.758, -97.9289), cost 3.72004e+08 and lambda: 1
+X plus: 4.16252e+08 X minus: 3.33033e+08 X plus: 3.84064e+08 X minus: 3.61092e+08
+Iteration 174 with real MET:(234.465, 181.774) and MET:(-225.916, -97.3903), cost 3.67673e+08 and lambda: 1
+X plus: 4.11382e+08 X minus: 3.29174e+08 X plus: 3.79563e+08 X minus: 3.56914e+08
+Iteration 175 with real MET:(234.465, 181.774) and MET:(-225.073, -96.8518), cost 3.6338e+08 and lambda: 1
+X plus: 4.06554e+08 X minus: 3.25348e+08 X plus: 3.751e+08 X minus: 3.52772e+08
+Iteration 176 with real MET:(234.465, 181.774) and MET:(-224.23, -96.3133), cost 3.59124e+08 and lambda: 1
+X plus: 4.01767e+08 X minus: 3.21554e+08 X plus: 3.70675e+08 X minus: 3.48664e+08
+Iteration 177 with real MET:(234.465, 181.774) and MET:(-223.388, -95.775), cost 3.54904e+08 and lambda: 1
+X plus: 3.97022e+08 X minus: 3.17793e+08 X plus: 3.66289e+08 X minus: 3.44592e+08
+Iteration 178 with real MET:(234.465, 181.774) and MET:(-222.545, -95.2367), cost 3.5072e+08 and lambda: 1
+X plus: 3.92317e+08 X minus: 3.14064e+08 X plus: 3.61941e+08 X minus: 3.40555e+08
+Iteration 179 with real MET:(234.465, 181.774) and MET:(-221.702, -94.6985), cost 3.46573e+08 and lambda: 1
+X plus: 3.87654e+08 X minus: 3.10367e+08 X plus: 3.5763e+08 X minus: 3.36552e+08
+Iteration 180 with real MET:(234.465, 181.774) and MET:(-220.859, -94.1603), cost 3.42461e+08 and lambda: 1
+X plus: 3.83031e+08 X minus: 3.06702e+08 X plus: 3.53357e+08 X minus: 3.32583e+08
+Iteration 181 with real MET:(234.465, 181.774) and MET:(-220.016, -93.6222), cost 3.38385e+08 and lambda: 1
+X plus: 3.78448e+08 X minus: 3.03068e+08 X plus: 3.49122e+08 X minus: 3.28649e+08
+Iteration 182 with real MET:(234.465, 181.774) and MET:(-219.173, -93.0842), cost 3.34345e+08 and lambda: 1
+X plus: 3.73906e+08 X minus: 2.99466e+08 X plus: 3.44924e+08 X minus: 3.24749e+08
+Iteration 183 with real MET:(234.465, 181.774) and MET:(-218.331, -92.5463), cost 3.3034e+08 and lambda: 1
+X plus: 3.69403e+08 X minus: 2.95895e+08 X plus: 3.40763e+08 X minus: 3.20882e+08
+Iteration 184 with real MET:(234.465, 181.774) and MET:(-217.487, -92.0084), cost 3.2637e+08 and lambda: 1
+X plus: 3.64941e+08 X minus: 2.92355e+08 X plus: 3.36639e+08 X minus: 3.1705e+08
+Iteration 185 with real MET:(234.465, 181.774) and MET:(-216.644, -91.4706), cost 3.22435e+08 and lambda: 1
+X plus: 3.60517e+08 X minus: 2.88847e+08 X plus: 3.32551e+08 X minus: 3.1325e+08
+Iteration 186 with real MET:(234.465, 181.774) and MET:(-215.801, -90.9328), cost 3.18534e+08 and lambda: 1
+X plus: 3.56133e+08 X minus: 2.85369e+08 X plus: 3.285e+08 X minus: 3.09484e+08
+Iteration 187 with real MET:(234.465, 181.774) and MET:(-214.958, -90.3951), cost 3.14669e+08 and lambda: 1
+X plus: 3.51788e+08 X minus: 2.81922e+08 X plus: 3.24484e+08 X minus: 3.05752e+08
+Iteration 188 with real MET:(234.465, 181.774) and MET:(-214.115, -89.8575), cost 3.10837e+08 and lambda: 1
+X plus: 3.47482e+08 X minus: 2.78505e+08 X plus: 3.20505e+08 X minus: 3.02052e+08
+Iteration 189 with real MET:(234.465, 181.774) and MET:(-213.272, -89.32), cost 3.0704e+08 and lambda: 1
+X plus: 3.43214e+08 X minus: 2.75118e+08 X plus: 3.16561e+08 X minus: 2.98384e+08
+Iteration 190 with real MET:(234.465, 181.774) and MET:(-212.428, -88.7825), cost 3.03276e+08 and lambda: 1
+X plus: 3.38985e+08 X minus: 2.71762e+08 X plus: 3.12653e+08 X minus: 2.94749e+08
+Iteration 191 with real MET:(234.465, 181.774) and MET:(-211.585, -88.2451), cost 2.99546e+08 and lambda: 1
+X plus: 3.34794e+08 X minus: 2.68435e+08 X plus: 3.08781e+08 X minus: 2.91147e+08
+Iteration 192 with real MET:(234.465, 181.774) and MET:(-210.742, -87.7077), cost 2.9585e+08 and lambda: 1
+X plus: 3.3064e+08 X minus: 2.65138e+08 X plus: 3.04943e+08 X minus: 2.87577e+08
+Iteration 193 with real MET:(234.465, 181.774) and MET:(-209.898, -87.1705), cost 2.92187e+08 and lambda: 1
+X plus: 3.26525e+08 X minus: 2.61871e+08 X plus: 3.0114e+08 X minus: 2.84038e+08
+Iteration 194 with real MET:(234.465, 181.774) and MET:(-209.055, -86.6332), cost 2.88557e+08 and lambda: 1
+X plus: 3.22447e+08 X minus: 2.58633e+08 X plus: 2.97372e+08 X minus: 2.80532e+08
+Iteration 195 with real MET:(234.465, 181.774) and MET:(-208.211, -86.0961), cost 2.8496e+08 and lambda: 1
+X plus: 3.18406e+08 X minus: 2.55425e+08 X plus: 2.93639e+08 X minus: 2.77057e+08
+Iteration 196 with real MET:(234.465, 181.774) and MET:(-207.368, -85.559), cost 2.81396e+08 and lambda: 1
+X plus: 3.14402e+08 X minus: 2.52245e+08 X plus: 2.8994e+08 X minus: 2.73613e+08
+Iteration 197 with real MET:(234.465, 181.774) and MET:(-206.524, -85.022), cost 2.77864e+08 and lambda: 1
+X plus: 3.10435e+08 X minus: 2.49094e+08 X plus: 2.86274e+08 X minus: 2.70201e+08
+Iteration 198 with real MET:(234.465, 181.774) and MET:(-205.681, -84.485), cost 2.74365e+08 and lambda: 1
+X plus: 3.06504e+08 X minus: 2.45973e+08 X plus: 2.82643e+08 X minus: 2.6682e+08
+Iteration 199 with real MET:(234.465, 181.774) and MET:(-204.837, -83.9481), cost 2.70898e+08 and lambda: 1
+X plus: 3.0261e+08 X minus: 2.42879e+08 X plus: 2.79045e+08 X minus: 2.63469e+08
+Iteration 200 with real MET:(234.465, 181.774) and MET:(-203.993, -83.4113), cost 2.67463e+08 and lambda: 1
+X plus: 2.98752e+08 X minus: 2.39814e+08 X plus: 2.75481e+08 X minus: 2.60149e+08
+Iteration 201 with real MET:(234.465, 181.774) and MET:(-203.15, -82.8745), cost 2.6406e+08 and lambda: 1
+X plus: 2.9493e+08 X minus: 2.36777e+08 X plus: 2.7195e+08 X minus: 2.5686e+08
+Iteration 202 with real MET:(234.465, 181.774) and MET:(-202.306, -82.3378), cost 2.60688e+08 and lambda: 1
+X plus: 2.91143e+08 X minus: 2.33768e+08 X plus: 2.68452e+08 X minus: 2.53601e+08
+Iteration 203 with real MET:(234.465, 181.774) and MET:(-201.462, -81.8011), cost 2.57348e+08 and lambda: 1
+X plus: 2.87393e+08 X minus: 2.30787e+08 X plus: 2.64987e+08 X minus: 2.50372e+08
+Iteration 204 with real MET:(234.465, 181.774) and MET:(-200.618, -81.2645), cost 2.54038e+08 and lambda: 1
+X plus: 2.83677e+08 X minus: 2.27834e+08 X plus: 2.61555e+08 X minus: 2.47173e+08
+Iteration 205 with real MET:(234.465, 181.774) and MET:(-199.774, -80.728), cost 2.5076e+08 and lambda: 1
+X plus: 2.79996e+08 X minus: 2.24908e+08 X plus: 2.58155e+08 X minus: 2.44004e+08
+Iteration 206 with real MET:(234.465, 181.774) and MET:(-198.93, -80.1915), cost 2.47513e+08 and lambda: 1
+X plus: 2.76351e+08 X minus: 2.2201e+08 X plus: 2.54788e+08 X minus: 2.40865e+08
+Iteration 207 with real MET:(234.465, 181.774) and MET:(-198.087, -79.6551), cost 2.44297e+08 and lambda: 1
+X plus: 2.7274e+08 X minus: 2.19139e+08 X plus: 2.51452e+08 X minus: 2.37755e+08
+Iteration 208 with real MET:(234.465, 181.774) and MET:(-197.243, -79.1188), cost 2.4111e+08 and lambda: 1
+X plus: 2.69163e+08 X minus: 2.16295e+08 X plus: 2.48148e+08 X minus: 2.34674e+08
+Iteration 209 with real MET:(234.465, 181.774) and MET:(-196.399, -78.5825), cost 2.37955e+08 and lambda: 1
+X plus: 2.65621e+08 X minus: 2.13478e+08 X plus: 2.44876e+08 X minus: 2.31622e+08
+Iteration 210 with real MET:(234.465, 181.774) and MET:(-195.554, -78.0463), cost 2.34829e+08 and lambda: 1
+X plus: 2.62112e+08 X minus: 2.10687e+08 X plus: 2.41636e+08 X minus: 2.28599e+08
+Iteration 211 with real MET:(234.465, 181.774) and MET:(-194.71, -77.5101), cost 2.31733e+08 and lambda: 1
+X plus: 2.58638e+08 X minus: 2.07923e+08 X plus: 2.38427e+08 X minus: 2.25605e+08
+Iteration 212 with real MET:(234.465, 181.774) and MET:(-193.866, -76.974), cost 2.28667e+08 and lambda: 1
+X plus: 2.55197e+08 X minus: 2.05186e+08 X plus: 2.35249e+08 X minus: 2.2264e+08
+Iteration 213 with real MET:(234.465, 181.774) and MET:(-193.022, -76.4379), cost 2.2563e+08 and lambda: 1
+X plus: 2.51789e+08 X minus: 2.02474e+08 X plus: 2.32101e+08 X minus: 2.19703e+08
+Iteration 214 with real MET:(234.465, 181.774) and MET:(-192.178, -75.9019), cost 2.22623e+08 and lambda: 1
+X plus: 2.48414e+08 X minus: 1.99789e+08 X plus: 2.28985e+08 X minus: 2.16793e+08
+Iteration 215 with real MET:(234.465, 181.774) and MET:(-191.333, -75.366), cost 2.19645e+08 and lambda: 1
+X plus: 2.45073e+08 X minus: 1.9713e+08 X plus: 2.25899e+08 X minus: 2.13912e+08
+Iteration 216 with real MET:(234.465, 181.774) and MET:(-190.489, -74.8301), cost 2.16696e+08 and lambda: 1
+X plus: 2.41764e+08 X minus: 1.94496e+08 X plus: 2.22843e+08 X minus: 2.11059e+08
+Iteration 217 with real MET:(234.465, 181.774) and MET:(-189.645, -74.2943), cost 2.13776e+08 and lambda: 1
+X plus: 2.38488e+08 X minus: 1.91888e+08 X plus: 2.19817e+08 X minus: 2.08234e+08
+Iteration 218 with real MET:(234.465, 181.774) and MET:(-188.8, -73.7586), cost 2.10884e+08 and lambda: 1
+X plus: 2.35244e+08 X minus: 1.89305e+08 X plus: 2.16821e+08 X minus: 2.05436e+08
+Iteration 219 with real MET:(234.465, 181.774) and MET:(-187.956, -73.2229), cost 2.08021e+08 and lambda: 1
+X plus: 2.32032e+08 X minus: 1.86748e+08 X plus: 2.13855e+08 X minus: 2.02665e+08
+Iteration 220 with real MET:(234.465, 181.774) and MET:(-187.112, -72.6872), cost 2.05186e+08 and lambda: 1
+X plus: 2.28852e+08 X minus: 1.84215e+08 X plus: 2.10919e+08 X minus: 1.99922e+08
+Iteration 221 with real MET:(234.465, 181.774) and MET:(-186.267, -72.1517), cost 2.02379e+08 and lambda: 1
+X plus: 2.25704e+08 X minus: 1.81708e+08 X plus: 2.08012e+08 X minus: 1.97205e+08
+Iteration 222 with real MET:(234.465, 181.774) and MET:(-185.423, -71.6161), cost 1.996e+08 and lambda: 1
+X plus: 2.22588e+08 X minus: 1.79225e+08 X plus: 2.05134e+08 X minus: 1.94515e+08
+Iteration 223 with real MET:(234.465, 181.774) and MET:(-184.578, -71.0807), cost 1.96849e+08 and lambda: 1
+X plus: 2.19502e+08 X minus: 1.76767e+08 X plus: 2.02285e+08 X minus: 1.91852e+08
+Iteration 224 with real MET:(234.465, 181.774) and MET:(-183.733, -70.5453), cost 1.94125e+08 and lambda: 1
+X plus: 2.16448e+08 X minus: 1.74334e+08 X plus: 1.99464e+08 X minus: 1.89216e+08
+Iteration 225 with real MET:(234.465, 181.774) and MET:(-182.889, -70.0099), cost 1.91429e+08 and lambda: 1
+X plus: 2.13425e+08 X minus: 1.71925e+08 X plus: 1.96673e+08 X minus: 1.86605e+08
+Iteration 226 with real MET:(234.465, 181.774) and MET:(-182.044, -69.4746), cost 1.8876e+08 and lambda: 1
+X plus: 2.10432e+08 X minus: 1.6954e+08 X plus: 1.9391e+08 X minus: 1.84021e+08
+Iteration 227 with real MET:(234.465, 181.774) and MET:(-181.199, -68.9394), cost 1.86118e+08 and lambda: 1
+X plus: 2.0747e+08 X minus: 1.67179e+08 X plus: 1.91175e+08 X minus: 1.81463e+08
+Iteration 228 with real MET:(234.465, 181.774) and MET:(-180.355, -68.4042), cost 1.83503e+08 and lambda: 1
+X plus: 2.04539e+08 X minus: 1.64841e+08 X plus: 1.88468e+08 X minus: 1.7893e+08
+Iteration 229 with real MET:(234.465, 181.774) and MET:(-179.51, -67.8691), cost 1.80914e+08 and lambda: 1
+X plus: 2.01637e+08 X minus: 1.62528e+08 X plus: 1.85788e+08 X minus: 1.76424e+08
+Iteration 230 with real MET:(234.465, 181.774) and MET:(-178.665, -67.3341), cost 1.78352e+08 and lambda: 1
+X plus: 1.98765e+08 X minus: 1.60238e+08 X plus: 1.83137e+08 X minus: 1.73942e+08
+Iteration 231 with real MET:(234.465, 181.774) and MET:(-177.82, -66.7991), cost 1.75816e+08 and lambda: 1
+X plus: 1.95923e+08 X minus: 1.57971e+08 X plus: 1.80513e+08 X minus: 1.71486e+08
+Iteration 232 with real MET:(234.465, 181.774) and MET:(-176.975, -66.2641), cost 1.73307e+08 and lambda: 1
+X plus: 1.93111e+08 X minus: 1.55728e+08 X plus: 1.77916e+08 X minus: 1.69055e+08
+Iteration 233 with real MET:(234.465, 181.774) and MET:(-176.13, -65.7292), cost 1.70823e+08 and lambda: 1
+X plus: 1.90328e+08 X minus: 1.53508e+08 X plus: 1.75347e+08 X minus: 1.66649e+08
+Iteration 234 with real MET:(234.465, 181.774) and MET:(-175.286, -65.1944), cost 1.68366e+08 and lambda: 1
+X plus: 1.87574e+08 X minus: 1.5131e+08 X plus: 1.72804e+08 X minus: 1.64268e+08
+Iteration 235 with real MET:(234.465, 181.774) and MET:(-174.441, -64.6596), cost 1.65933e+08 and lambda: 1
+X plus: 1.84848e+08 X minus: 1.49136e+08 X plus: 1.70288e+08 X minus: 1.61912e+08
+Iteration 236 with real MET:(234.465, 181.774) and MET:(-173.595, -64.1249), cost 1.63527e+08 and lambda: 1
+X plus: 1.82152e+08 X minus: 1.46984e+08 X plus: 1.67799e+08 X minus: 1.5958e+08
+Iteration 237 with real MET:(234.465, 181.774) and MET:(-172.75, -63.5902), cost 1.61145e+08 and lambda: 1
+X plus: 1.79484e+08 X minus: 1.44854e+08 X plus: 1.65336e+08 X minus: 1.57272e+08
+Iteration 238 with real MET:(234.465, 181.774) and MET:(-171.905, -63.0556), cost 1.58789e+08 and lambda: 1
+X plus: 1.76845e+08 X minus: 1.42747e+08 X plus: 1.629e+08 X minus: 1.54989e+08
+Iteration 239 with real MET:(234.465, 181.774) and MET:(-171.06, -62.5211), cost 1.56458e+08 and lambda: 1
+X plus: 1.74233e+08 X minus: 1.40662e+08 X plus: 1.60489e+08 X minus: 1.52729e+08
+Iteration 240 with real MET:(234.465, 181.774) and MET:(-170.215, -61.9866), cost 1.54151e+08 and lambda: 1
+X plus: 1.7165e+08 X minus: 1.38599e+08 X plus: 1.58104e+08 X minus: 1.50494e+08
+Iteration 241 with real MET:(234.465, 181.774) and MET:(-169.37, -61.4522), cost 1.51869e+08 and lambda: 1
+X plus: 1.69094e+08 X minus: 1.36558e+08 X plus: 1.55745e+08 X minus: 1.48282e+08
+Iteration 242 with real MET:(234.465, 181.774) and MET:(-168.525, -60.9178), cost 1.49612e+08 and lambda: 1
+X plus: 1.66566e+08 X minus: 1.34538e+08 X plus: 1.53411e+08 X minus: 1.46093e+08
+Iteration 243 with real MET:(234.465, 181.774) and MET:(-167.679, -60.3835), cost 1.47378e+08 and lambda: 1
+X plus: 1.64066e+08 X minus: 1.3254e+08 X plus: 1.51103e+08 X minus: 1.43928e+08
+Iteration 244 with real MET:(234.465, 181.774) and MET:(-166.834, -59.8492), cost 1.45169e+08 and lambda: 1
+X plus: 1.61592e+08 X minus: 1.30564e+08 X plus: 1.4882e+08 X minus: 1.41786e+08
+Iteration 245 with real MET:(234.465, 181.774) and MET:(-165.989, -59.315), cost 1.42984e+08 and lambda: 1
+X plus: 1.59146e+08 X minus: 1.28609e+08 X plus: 1.46562e+08 X minus: 1.39667e+08
+Iteration 246 with real MET:(234.465, 181.774) and MET:(-165.143, -58.7809), cost 1.40823e+08 and lambda: 1
+X plus: 1.56726e+08 X minus: 1.26675e+08 X plus: 1.44329e+08 X minus: 1.37571e+08
+Iteration 247 with real MET:(234.465, 181.774) and MET:(-164.298, -58.2468), cost 1.38685e+08 and lambda: 1
+X plus: 1.54333e+08 X minus: 1.24762e+08 X plus: 1.4212e+08 X minus: 1.35498e+08
+Iteration 248 with real MET:(234.465, 181.774) and MET:(-163.452, -57.7128), cost 1.36571e+08 and lambda: 1
+X plus: 1.51967e+08 X minus: 1.22869e+08 X plus: 1.39936e+08 X minus: 1.33447e+08
+Iteration 249 with real MET:(234.465, 181.774) and MET:(-162.607, -57.1788), cost 1.34479e+08 and lambda: 1
+X plus: 1.49627e+08 X minus: 1.20998e+08 X plus: 1.37776e+08 X minus: 1.31419e+08
+Iteration 250 with real MET:(234.465, 181.774) and MET:(-161.761, -56.6449), cost 1.32412e+08 and lambda: 1
+X plus: 1.47312e+08 X minus: 1.19147e+08 X plus: 1.3564e+08 X minus: 1.29413e+08
+Iteration 251 with real MET:(234.465, 181.774) and MET:(-160.916, -56.1111), cost 1.30367e+08 and lambda: 1
+X plus: 1.45024e+08 X minus: 1.17317e+08 X plus: 1.33528e+08 X minus: 1.27429e+08
+Iteration 252 with real MET:(234.465, 181.774) and MET:(-160.07, -55.5773), cost 1.28344e+08 and lambda: 1
+X plus: 1.42761e+08 X minus: 1.15506e+08 X plus: 1.31439e+08 X minus: 1.25467e+08
+Iteration 253 with real MET:(234.465, 181.774) and MET:(-159.224, -55.0436), cost 1.26345e+08 and lambda: 1
+X plus: 1.40524e+08 X minus: 1.13716e+08 X plus: 1.29375e+08 X minus: 1.23527e+08
+Iteration 254 with real MET:(234.465, 181.774) and MET:(-158.379, -54.5099), cost 1.24368e+08 and lambda: 1
+X plus: 1.38313e+08 X minus: 1.11946e+08 X plus: 1.27334e+08 X minus: 1.21608e+08
+Iteration 255 with real MET:(234.465, 181.774) and MET:(-157.533, -53.9763), cost 1.22413e+08 and lambda: 1
+X plus: 1.36126e+08 X minus: 1.10196e+08 X plus: 1.25316e+08 X minus: 1.19711e+08
+Iteration 256 with real MET:(234.465, 181.774) and MET:(-156.687, -53.4427), cost 1.2048e+08 and lambda: 1
+X plus: 1.33964e+08 X minus: 1.08465e+08 X plus: 1.23321e+08 X minus: 1.17835e+08
+Iteration 257 with real MET:(234.465, 181.774) and MET:(-155.841, -52.9092), cost 1.1857e+08 and lambda: 1
+X plus: 1.31827e+08 X minus: 1.06754e+08 X plus: 1.21349e+08 X minus: 1.1598e+08
+Iteration 258 with real MET:(234.465, 181.774) and MET:(-154.996, -52.3758), cost 1.16681e+08 and lambda: 1
+X plus: 1.29715e+08 X minus: 1.05063e+08 X plus: 1.194e+08 X minus: 1.14147e+08
+Iteration 259 with real MET:(234.465, 181.774) and MET:(-154.15, -51.8424), cost 1.14814e+08 and lambda: 1
+X plus: 1.27627e+08 X minus: 1.0339e+08 X plus: 1.17473e+08 X minus: 1.12334e+08
+Iteration 260 with real MET:(234.465, 181.774) and MET:(-153.304, -51.3091), cost 1.12968e+08 and lambda: 1
+X plus: 1.25564e+08 X minus: 1.01737e+08 X plus: 1.15569e+08 X minus: 1.10542e+08
+Iteration 261 with real MET:(234.465, 181.774) and MET:(-152.458, -50.7759), cost 1.11144e+08 and lambda: 1
+X plus: 1.23524e+08 X minus: 1.00103e+08 X plus: 1.13687e+08 X minus: 1.08771e+08
+Iteration 262 with real MET:(234.465, 181.774) and MET:(-151.612, -50.2427), cost 1.09341e+08 and lambda: 1
+X plus: 1.21509e+08 X minus: 9.84875e+07 X plus: 1.11827e+08 X minus: 1.0702e+08
+Iteration 263 with real MET:(234.465, 181.774) and MET:(-150.766, -49.7095), cost 1.07559e+08 and lambda: 1
+X plus: 1.19517e+08 X minus: 9.68909e+07 X plus: 1.09989e+08 X minus: 1.05289e+08
+Iteration 264 with real MET:(234.465, 181.774) and MET:(-149.92, -49.1765), cost 1.05798e+08 and lambda: 1
+X plus: 1.17548e+08 X minus: 9.53128e+07 X plus: 1.08173e+08 X minus: 1.03578e+08
+Iteration 265 with real MET:(234.465, 181.774) and MET:(-149.074, -48.6435), cost 1.04058e+08 and lambda: 1
+X plus: 1.15603e+08 X minus: 9.37533e+07 X plus: 1.06378e+08 X minus: 1.01888e+08
+Iteration 266 with real MET:(234.465, 181.774) and MET:(-148.227, -48.1105), cost 1.02338e+08 and lambda: 1
+X plus: 1.13681e+08 X minus: 9.2212e+07 X plus: 1.04605e+08 X minus: 1.00217e+08
+Iteration 267 with real MET:(234.465, 181.774) and MET:(-147.381, -47.5777), cost 1.00638e+08 and lambda: 1
+X plus: 1.11783e+08 X minus: 9.06889e+07 X plus: 1.02853e+08 X minus: 9.85656e+07
+Iteration 268 with real MET:(234.465, 181.774) and MET:(-146.535, -47.0449), cost 9.89594e+07 and lambda: 1
+X plus: 1.09907e+08 X minus: 8.91839e+07 X plus: 1.01122e+08 X minus: 9.6934e+07
+Iteration 269 with real MET:(234.465, 181.774) and MET:(-145.689, -46.5121), cost 9.73004e+07 and lambda: 1
+X plus: 1.08053e+08 X minus: 8.76968e+07 X plus: 9.94123e+07 X minus: 9.53218e+07
+Iteration 270 with real MET:(234.465, 181.774) and MET:(-144.842, -45.9794), cost 9.56614e+07 and lambda: 1
+X plus: 1.06222e+08 X minus: 8.62274e+07 X plus: 9.77232e+07 X minus: 9.37288e+07
+Iteration 271 with real MET:(234.465, 181.774) and MET:(-143.996, -45.4468), cost 9.40422e+07 and lambda: 1
+X plus: 1.04414e+08 X minus: 8.47757e+07 X plus: 9.60547e+07 X minus: 9.2155e+07
+Iteration 272 with real MET:(234.465, 181.774) and MET:(-143.15, -44.9143), cost 9.24427e+07 and lambda: 1
+X plus: 1.02627e+08 X minus: 8.33415e+07 X plus: 9.44067e+07 X minus: 9.06e+07
+Iteration 273 with real MET:(234.465, 181.774) and MET:(-142.303, -44.3818), cost 9.08627e+07 and lambda: 1
+X plus: 1.00863e+08 X minus: 8.19246e+07 X plus: 9.2779e+07 X minus: 8.90639e+07
+Iteration 274 with real MET:(234.465, 181.774) and MET:(-141.457, -43.8494), cost 8.9302e+07 and lambda: 1
+X plus: 9.91204e+07 X minus: 8.0525e+07 X plus: 9.11714e+07 X minus: 8.75465e+07
+Iteration 275 with real MET:(234.465, 181.774) and MET:(-140.61, -43.317), cost 8.77606e+07 and lambda: 1
+X plus: 9.73993e+07 X minus: 7.91425e+07 X plus: 8.95838e+07 X minus: 8.60476e+07
+Iteration 276 with real MET:(234.465, 181.774) and MET:(-139.764, -42.7847), cost 8.62383e+07 and lambda: 1
+X plus: 9.56998e+07 X minus: 7.7777e+07 X plus: 8.80161e+07 X minus: 8.4567e+07
+Iteration 277 with real MET:(234.465, 181.774) and MET:(-138.917, -42.2525), cost 8.47348e+07 and lambda: 1
+X plus: 9.40215e+07 X minus: 7.64283e+07 X plus: 8.6468e+07 X minus: 8.31047e+07
+Iteration 278 with real MET:(234.465, 181.774) and MET:(-138.07, -41.7204), cost 8.32501e+07 and lambda: 1
+X plus: 9.23644e+07 X minus: 7.50964e+07 X plus: 8.49395e+07 X minus: 8.16605e+07
+Iteration 279 with real MET:(234.465, 181.774) and MET:(-137.224, -41.1883), cost 8.17841e+07 and lambda: 1
+X plus: 9.07281e+07 X minus: 7.3781e+07 X plus: 8.34303e+07 X minus: 8.02343e+07
+Iteration 280 with real MET:(234.465, 181.774) and MET:(-136.377, -40.6563), cost 8.03365e+07 and lambda: 1
+X plus: 8.91127e+07 X minus: 7.24821e+07 X plus: 8.19403e+07 X minus: 7.88258e+07
+Iteration 281 with real MET:(234.465, 181.774) and MET:(-135.53, -40.1243), cost 7.89072e+07 and lambda: 1
+X plus: 8.75179e+07 X minus: 7.11995e+07 X plus: 8.04693e+07 X minus: 7.74351e+07
+Iteration 282 with real MET:(234.465, 181.774) and MET:(-134.683, -39.5925), cost 7.74961e+07 and lambda: 1
+X plus: 8.59436e+07 X minus: 6.99331e+07 X plus: 7.90173e+07 X minus: 7.60618e+07
+Iteration 283 with real MET:(234.465, 181.774) and MET:(-133.836, -39.0607), cost 7.61031e+07 and lambda: 1
+X plus: 8.43895e+07 X minus: 6.86828e+07 X plus: 7.7584e+07 X minus: 7.4706e+07
+Iteration 284 with real MET:(234.465, 181.774) and MET:(-132.989, -38.529), cost 7.4728e+07 and lambda: 1
+X plus: 8.28556e+07 X minus: 6.74484e+07 X plus: 7.61693e+07 X minus: 7.33675e+07
+Iteration 285 with real MET:(234.465, 181.774) and MET:(-132.143, -37.9973), cost 7.33706e+07 and lambda: 1
+X plus: 8.13416e+07 X minus: 6.62298e+07 X plus: 7.47731e+07 X minus: 7.2046e+07
+Iteration 286 with real MET:(234.465, 181.774) and MET:(-131.296, -37.4658), cost 7.20308e+07 and lambda: 1
+X plus: 7.98474e+07 X minus: 6.50269e+07 X plus: 7.33951e+07 X minus: 7.07416e+07
+Iteration 287 with real MET:(234.465, 181.774) and MET:(-130.448, -36.9343), cost 7.07084e+07 and lambda: 1
+X plus: 7.83729e+07 X minus: 6.38396e+07 X plus: 7.20353e+07 X minus: 6.94539e+07
+Iteration 288 with real MET:(234.465, 181.774) and MET:(-129.601, -36.4029), cost 6.94034e+07 and lambda: 1
+X plus: 7.69178e+07 X minus: 6.26677e+07 X plus: 7.06935e+07 X minus: 6.81831e+07
+Iteration 289 with real MET:(234.465, 181.774) and MET:(-128.754, -35.8715), cost 6.81156e+07 and lambda: 1
+X plus: 7.5482e+07 X minus: 6.15111e+07 X plus: 6.93695e+07 X minus: 6.69287e+07
+Iteration 290 with real MET:(234.465, 181.774) and MET:(-127.907, -35.3403), cost 6.68447e+07 and lambda: 1
+X plus: 7.40654e+07 X minus: 6.03697e+07 X plus: 6.80632e+07 X minus: 6.56909e+07
+Iteration 291 with real MET:(234.465, 181.774) and MET:(-127.06, -34.8091), cost 6.55908e+07 and lambda: 1
+X plus: 7.26678e+07 X minus: 5.92434e+07 X plus: 6.67745e+07 X minus: 6.44693e+07
+Iteration 292 with real MET:(234.465, 181.774) and MET:(-126.212, -34.278), cost 6.43537e+07 and lambda: 1
+X plus: 7.12889e+07 X minus: 5.8132e+07 X plus: 6.55032e+07 X minus: 6.32639e+07
+Iteration 293 with real MET:(234.465, 181.774) and MET:(-125.365, -33.7469), cost 6.31331e+07 and lambda: 1
+X plus: 6.99288e+07 X minus: 5.70354e+07 X plus: 6.42491e+07 X minus: 6.20745e+07
+Iteration 294 with real MET:(234.465, 181.774) and MET:(-124.518, -33.216), cost 6.1929e+07 and lambda: 1
+X plus: 6.85872e+07 X minus: 5.59535e+07 X plus: 6.30121e+07 X minus: 6.09011e+07
+Iteration 295 with real MET:(234.465, 181.774) and MET:(-123.67, -32.6852), cost 6.07413e+07 and lambda: 1
+X plus: 6.72639e+07 X minus: 5.48862e+07 X plus: 6.17921e+07 X minus: 5.97434e+07
+Iteration 296 with real MET:(234.465, 181.774) and MET:(-122.823, -32.1544), cost 5.95698e+07 and lambda: 1
+X plus: 6.59588e+07 X minus: 5.38333e+07 X plus: 6.05889e+07 X minus: 5.86014e+07
+Iteration 297 with real MET:(234.465, 181.774) and MET:(-121.975, -31.6237), cost 5.84143e+07 and lambda: 1
+X plus: 6.46718e+07 X minus: 5.27948e+07 X plus: 5.94024e+07 X minus: 5.74748e+07
+Iteration 298 with real MET:(234.465, 181.774) and MET:(-121.127, -31.0931), cost 5.72747e+07 and lambda: 1
+X plus: 6.34027e+07 X minus: 5.17704e+07 X plus: 5.82324e+07 X minus: 5.63637e+07
+Iteration 299 with real MET:(234.465, 181.774) and MET:(-120.28, -30.5626), cost 5.6151e+07 and lambda: 1
+X plus: 6.21512e+07 X minus: 5.07602e+07 X plus: 5.70788e+07 X minus: 5.52678e+07
+Iteration 300 with real MET:(234.465, 181.774) and MET:(-119.432, -30.0322), cost 5.50428e+07 and lambda: 1
+X plus: 6.09174e+07 X minus: 4.97639e+07 X plus: 5.59414e+07 X minus: 5.4187e+07
+Iteration 301 with real MET:(234.465, 181.774) and MET:(-118.584, -29.5018), cost 5.39502e+07 and lambda: 1
+X plus: 5.9701e+07 X minus: 4.87814e+07 X plus: 5.48201e+07 X minus: 5.31212e+07
+Iteration 302 with real MET:(234.465, 181.774) and MET:(-117.736, -28.9716), cost 5.2873e+07 and lambda: 1
+X plus: 5.85018e+07 X minus: 4.78127e+07 X plus: 5.37148e+07 X minus: 5.20702e+07
+Iteration 303 with real MET:(234.465, 181.774) and MET:(-116.889, -28.4414), cost 5.1811e+07 and lambda: 1
+X plus: 5.73198e+07 X minus: 4.68576e+07 X plus: 5.26253e+07 X minus: 5.1034e+07
+Iteration 304 with real MET:(234.465, 181.774) and MET:(-116.041, -27.9114), cost 5.07642e+07 and lambda: 1
+X plus: 5.61547e+07 X minus: 4.59159e+07 X plus: 5.15515e+07 X minus: 5.00124e+07
+Iteration 305 with real MET:(234.465, 181.774) and MET:(-115.193, -27.3814), cost 4.97323e+07 and lambda: 1
+X plus: 5.50065e+07 X minus: 4.49876e+07 X plus: 5.04932e+07 X minus: 4.90053e+07
+Iteration 306 with real MET:(234.465, 181.774) and MET:(-114.344, -26.8516), cost 4.87153e+07 and lambda: 1
+X plus: 5.38749e+07 X minus: 4.40726e+07 X plus: 4.94503e+07 X minus: 4.80125e+07
+Iteration 307 with real MET:(234.465, 181.774) and MET:(-113.496, -26.3218), cost 4.77129e+07 and lambda: 1
+X plus: 5.27598e+07 X minus: 4.31708e+07 X plus: 4.84227e+07 X minus: 4.7034e+07
+Iteration 308 with real MET:(234.465, 181.774) and MET:(-112.648, -25.7921), cost 4.67252e+07 and lambda: 1
+X plus: 5.16611e+07 X minus: 4.22819e+07 X plus: 4.74102e+07 X minus: 4.60695e+07
+Iteration 309 with real MET:(234.465, 181.774) and MET:(-111.8, -25.2626), cost 4.57519e+07 and lambda: 1
+X plus: 5.05785e+07 X minus: 4.1406e+07 X plus: 4.64126e+07 X minus: 4.51191e+07
+Iteration 310 with real MET:(234.465, 181.774) and MET:(-110.951, -24.7331), cost 4.4793e+07 and lambda: 1
+X plus: 4.95121e+07 X minus: 4.05428e+07 X plus: 4.54299e+07 X minus: 4.41824e+07
+Iteration 311 with real MET:(234.465, 181.774) and MET:(-110.103, -24.2038), cost 4.38482e+07 and lambda: 1
+X plus: 4.84616e+07 X minus: 3.96923e+07 X plus: 4.4462e+07 X minus: 4.32595e+07
+Iteration 312 with real MET:(234.465, 181.774) and MET:(-109.255, -23.6745), cost 4.29175e+07 and lambda: 1
+X plus: 4.74268e+07 X minus: 3.88544e+07 X plus: 4.35085e+07 X minus: 4.23502e+07
+Iteration 313 with real MET:(234.465, 181.774) and MET:(-108.406, -23.1454), cost 4.20007e+07 and lambda: 1
+X plus: 4.64077e+07 X minus: 3.80289e+07 X plus: 4.25696e+07 X minus: 4.14543e+07
+Iteration 314 with real MET:(234.465, 181.774) and MET:(-107.557, -22.6164), cost 4.10977e+07 and lambda: 1
+X plus: 4.5404e+07 X minus: 3.72158e+07 X plus: 4.16449e+07 X minus: 4.05719e+07
+Iteration 315 with real MET:(234.465, 181.774) and MET:(-106.709, -22.0874), cost 4.02085e+07 and lambda: 1
+X plus: 4.44157e+07 X minus: 3.64149e+07 X plus: 4.07344e+07 X minus: 3.97026e+07
+Iteration 316 with real MET:(234.465, 181.774) and MET:(-105.86, -21.5586), cost 3.93327e+07 and lambda: 1
+X plus: 4.34426e+07 X minus: 3.56261e+07 X plus: 3.98379e+07 X minus: 3.88465e+07
+Iteration 317 with real MET:(234.465, 181.774) and MET:(-105.011, -21.03), cost 3.84704e+07 and lambda: 1
+X plus: 4.24845e+07 X minus: 3.48493e+07 X plus: 3.89554e+07 X minus: 3.80033e+07
+Iteration 318 with real MET:(234.465, 181.774) and MET:(-104.162, -20.5014), cost 3.76214e+07 and lambda: 1
+X plus: 4.15413e+07 X minus: 3.40843e+07 X plus: 3.80866e+07 X minus: 3.7173e+07
+Iteration 319 with real MET:(234.465, 181.774) and MET:(-103.313, -19.9729), cost 3.67856e+07 and lambda: 1
+X plus: 4.06129e+07 X minus: 3.33312e+07 X plus: 3.72315e+07 X minus: 3.63555e+07
+Iteration 320 with real MET:(234.465, 181.774) and MET:(-102.464, -19.4446), cost 3.59628e+07 and lambda: 1
+X plus: 3.96991e+07 X minus: 3.25897e+07 X plus: 3.63898e+07 X minus: 3.55506e+07
+Iteration 321 with real MET:(234.465, 181.774) and MET:(-101.615, -18.9164), cost 3.51529e+07 and lambda: 1
+X plus: 3.87998e+07 X minus: 3.18598e+07 X plus: 3.55615e+07 X minus: 3.47582e+07
+Iteration 322 with real MET:(234.465, 181.774) and MET:(-100.766, -18.3883), cost 3.43558e+07 and lambda: 1
+X plus: 3.79148e+07 X minus: 3.11413e+07 X plus: 3.47465e+07 X minus: 3.39781e+07
+Iteration 323 with real MET:(234.465, 181.774) and MET:(-99.9167, -17.8604), cost 3.35714e+07 and lambda: 1
+X plus: 3.70441e+07 X minus: 3.04342e+07 X plus: 3.39446e+07 X minus: 3.32104e+07
+Iteration 324 with real MET:(234.465, 181.774) and MET:(-99.0674, -17.3326), cost 3.27996e+07 and lambda: 1
+X plus: 3.61873e+07 X minus: 2.97382e+07 X plus: 3.31557e+07 X minus: 3.24548e+07
+Iteration 325 with real MET:(234.465, 181.774) and MET:(-98.2179, -16.8049), cost 3.20402e+07 and lambda: 1
+X plus: 3.53445e+07 X minus: 2.90534e+07 X plus: 3.23797e+07 X minus: 3.17112e+07
+Iteration 326 with real MET:(234.465, 181.774) and MET:(-97.3684, -16.2774), cost 3.12931e+07 and lambda: 1
+X plus: 3.45155e+07 X minus: 2.83797e+07 X plus: 3.16164e+07 X minus: 3.09796e+07
+Iteration 327 with real MET:(234.465, 181.774) and MET:(-96.5188, -15.75), cost 3.05582e+07 and lambda: 1
+X plus: 3.37001e+07 X minus: 2.77168e+07 X plus: 3.08656e+07 X minus: 3.02598e+07
+Iteration 328 with real MET:(234.465, 181.774) and MET:(-95.6691, -15.2227), cost 2.98353e+07 and lambda: 1
+X plus: 3.28982e+07 X minus: 2.70647e+07 X plus: 3.01274e+07 X minus: 2.95517e+07
+Iteration 329 with real MET:(234.465, 181.774) and MET:(-94.8193, -14.6956), cost 2.91244e+07 and lambda: 1
+X plus: 3.21097e+07 X minus: 2.64233e+07 X plus: 2.94015e+07 X minus: 2.88551e+07
+Iteration 330 with real MET:(234.465, 181.774) and MET:(-93.9694, -14.1686), cost 2.84254e+07 and lambda: 1
+X plus: 3.13345e+07 X minus: 2.57925e+07 X plus: 2.86879e+07 X minus: 2.817e+07
+Iteration 331 with real MET:(234.465, 181.774) and MET:(-93.1194, -13.6418), cost 2.7738e+07 and lambda: 1
+X plus: 3.05723e+07 X minus: 2.51722e+07 X plus: 2.79864e+07 X minus: 2.74962e+07
+Iteration 332 with real MET:(234.465, 181.774) and MET:(-92.2694, -13.1151), cost 2.70623e+07 and lambda: 1
+X plus: 2.98231e+07 X minus: 2.45623e+07 X plus: 2.72968e+07 X minus: 2.68337e+07
+Iteration 333 with real MET:(234.465, 181.774) and MET:(-91.4192, -12.5886), cost 2.6398e+07 and lambda: 1
+X plus: 2.90867e+07 X minus: 2.39626e+07 X plus: 2.66191e+07 X minus: 2.61823e+07
+Iteration 334 with real MET:(234.465, 181.774) and MET:(-90.5689, -12.0623), cost 2.5745e+07 and lambda: 1
+X plus: 2.8363e+07 X minus: 2.33731e+07 X plus: 2.59531e+07 X minus: 2.55419e+07
+Iteration 335 with real MET:(234.465, 181.774) and MET:(-89.7185, -11.5361), cost 2.51034e+07 and lambda: 1
+X plus: 2.76519e+07 X minus: 2.27937e+07 X plus: 2.52988e+07 X minus: 2.49124e+07
+Iteration 336 with real MET:(234.465, 181.774) and MET:(-88.8681, -11.0101), cost 2.44728e+07 and lambda: 1
+X plus: 2.69533e+07 X minus: 2.22242e+07 X plus: 2.46559e+07 X minus: 2.42937e+07
+Iteration 337 with real MET:(234.465, 181.774) and MET:(-88.0175, -10.4842), cost 2.38532e+07 and lambda: 1
+X plus: 2.62669e+07 X minus: 2.16646e+07 X plus: 2.40244e+07 X minus: 2.36857e+07
+Iteration 338 with real MET:(234.465, 181.774) and MET:(-87.1668, -9.95854), cost 2.32446e+07 and lambda: 1
+X plus: 2.55927e+07 X minus: 2.11147e+07 X plus: 2.34042e+07 X minus: 2.30882e+07
+Iteration 339 with real MET:(234.465, 181.774) and MET:(-86.316, -9.43305), cost 2.26467e+07 and lambda: 1
+X plus: 2.49306e+07 X minus: 2.05745e+07 X plus: 2.27951e+07 X minus: 2.25012e+07
+Iteration 340 with real MET:(234.465, 181.774) and MET:(-85.4651, -8.90773), cost 2.20594e+07 and lambda: 1
+X plus: 2.42803e+07 X minus: 2.00439e+07 X plus: 2.21969e+07 X minus: 2.19245e+07
+Iteration 341 with real MET:(234.465, 181.774) and MET:(-84.6141, -8.38261), cost 2.14828e+07 and lambda: 1
+X plus: 2.36419e+07 X minus: 1.95227e+07 X plus: 2.16097e+07 X minus: 2.1358e+07
+Iteration 342 with real MET:(234.465, 181.774) and MET:(-83.7629, -7.85767), cost 2.09165e+07 and lambda: 1
+X plus: 2.30151e+07 X minus: 1.90109e+07 X plus: 2.10333e+07 X minus: 2.08017e+07
+Iteration 343 with real MET:(234.465, 181.774) and MET:(-82.9117, -7.33293), cost 2.03606e+07 and lambda: 1
+X plus: 2.23998e+07 X minus: 1.85084e+07 X plus: 2.04675e+07 X minus: 2.02554e+07
+Iteration 344 with real MET:(234.465, 181.774) and MET:(-82.0603, -6.80838), cost 1.98149e+07 and lambda: 1
+X plus: 2.1796e+07 X minus: 1.8015e+07 X plus: 1.99122e+07 X minus: 1.9719e+07
+Iteration 345 with real MET:(234.465, 181.774) and MET:(-81.2088, -6.28404), cost 1.92793e+07 and lambda: 1
+X plus: 2.12034e+07 X minus: 1.75306e+07 X plus: 1.93674e+07 X minus: 1.91925e+07
+Iteration 346 with real MET:(234.465, 181.774) and MET:(-80.3571, -5.75991), cost 1.87537e+07 and lambda: 1
+X plus: 2.0622e+07 X minus: 1.70552e+07 X plus: 1.88328e+07 X minus: 1.86756e+07
+Iteration 347 with real MET:(234.465, 181.774) and MET:(-79.5054, -5.23599), cost 1.8238e+07 and lambda: 1
+X plus: 2.00516e+07 X minus: 1.65887e+07 X plus: 1.83085e+07 X minus: 1.81683e+07
+Iteration 348 with real MET:(234.465, 181.774) and MET:(-78.6535, -4.71229), cost 1.7732e+07 and lambda: 1
+X plus: 1.94921e+07 X minus: 1.6131e+07 X plus: 1.77942e+07 X minus: 1.76705e+07
+Iteration 349 with real MET:(234.465, 181.774) and MET:(-77.8014, -4.18882), cost 1.72358e+07 and lambda: 1
+X plus: 1.89434e+07 X minus: 1.56819e+07 X plus: 1.72899e+07 X minus: 1.71821e+07
+Iteration 350 with real MET:(234.465, 181.774) and MET:(-76.9493, -3.66557), cost 1.6749e+07 and lambda: 1
+X plus: 1.84053e+07 X minus: 1.52414e+07 X plus: 1.67955e+07 X minus: 1.6703e+07
+Iteration 351 with real MET:(234.465, 181.774) and MET:(-76.0969, -3.14255), cost 1.62717e+07 and lambda: 1
+X plus: 1.78778e+07 X minus: 1.48094e+07 X plus: 1.63107e+07 X minus: 1.6233e+07
+Iteration 352 with real MET:(234.465, 181.774) and MET:(-75.2445, -2.61978), cost 1.58038e+07 and lambda: 1
+X plus: 1.73607e+07 X minus: 1.43858e+07 X plus: 1.58356e+07 X minus: 1.57721e+07
+Iteration 353 with real MET:(234.465, 181.774) and MET:(-74.3918, -2.09725), cost 1.53451e+07 and lambda: 1
+X plus: 1.68539e+07 X minus: 1.39704e+07 X plus: 1.537e+07 X minus: 1.53202e+07
+Iteration 354 with real MET:(234.465, 181.774) and MET:(-73.5391, -1.57497), cost 1.48955e+07 and lambda: 1
+X plus: 1.63572e+07 X minus: 1.35633e+07 X plus: 1.49138e+07 X minus: 1.48772e+07
+Iteration 355 with real MET:(234.465, 181.774) and MET:(-72.6861, -1.05295), cost 1.44549e+07 and lambda: 1
+X plus: 1.58706e+07 X minus: 1.31642e+07 X plus: 1.44669e+07 X minus: 1.44429e+07
+Iteration 356 with real MET:(234.465, 181.774) and MET:(-71.833, -0.5312), cost 1.40232e+07 and lambda: 1
+X plus: 1.5394e+07 X minus: 1.27732e+07 X plus: 1.40292e+07 X minus: 1.40173e+07
+Iteration 357 with real MET:(234.465, 181.774) and MET:(-70.9798, -0.00971863), cost 1.36004e+07 and lambda: 1
+X plus: 1.49271e+07 X minus: 1.239e+07 X plus: 1.36005e+07 X minus: 1.36003e+07
+Iteration 358 with real MET:(234.465, 181.774) and MET:(-70.1263, 0.511485), cost 1.31862e+07 and lambda: 1
+X plus: 1.447e+07 X minus: 1.20147e+07 X plus: 1.31808e+07 X minus: 1.31917e+07
+Iteration 359 with real MET:(234.465, 181.774) and MET:(-69.2727, 1.0324), cost 1.27807e+07 and lambda: 1
+X plus: 1.40224e+07 X minus: 1.16472e+07 X plus: 1.27699e+07 X minus: 1.27915e+07
+Iteration 360 with real MET:(234.465, 181.774) and MET:(-68.4189, 1.55303), cost 1.23836e+07 and lambda: 1
+X plus: 1.35843e+07 X minus: 1.12872e+07 X plus: 1.23678e+07 X minus: 1.23996e+07
+Iteration 361 with real MET:(234.465, 181.774) and MET:(-67.565, 2.07335), cost 1.1995e+07 and lambda: 1
+X plus: 1.31555e+07 X minus: 1.09348e+07 X plus: 1.19743e+07 X minus: 1.20158e+07
+Iteration 362 with real MET:(234.465, 181.774) and MET:(-66.7108, 2.59336), cost 1.16146e+07 and lambda: 1
+X plus: 1.2736e+07 X minus: 1.05899e+07 X plus: 1.15893e+07 X minus: 1.16401e+07
+Iteration 363 with real MET:(234.465, 181.774) and MET:(-65.8565, 3.11306), cost 1.12425e+07 and lambda: 1
+X plus: 1.23256e+07 X minus: 1.02524e+07 X plus: 1.12128e+07 X minus: 1.12724e+07
+Iteration 364 with real MET:(234.465, 181.774) and MET:(-65.0019, 3.63242), cost 1.08784e+07 and lambda: 1
+X plus: 1.19242e+07 X minus: 9.92208e+06 X plus: 1.08446e+07 X minus: 1.09125e+07
+Iteration 365 with real MET:(234.465, 181.774) and MET:(-64.1472, 4.15146), cost 1.05223e+07 and lambda: 1
+X plus: 1.15317e+07 X minus: 9.59899e+06 X plus: 1.04846e+07 X minus: 1.05604e+07
+Iteration 366 with real MET:(234.465, 181.774) and MET:(-63.2922, 4.67015), cost 1.01741e+07 and lambda: 1
+X plus: 1.11479e+07 X minus: 9.28301e+06 X plus: 1.01327e+07 X minus: 1.02161e+07
+Iteration 367 with real MET:(234.465, 181.774) and MET:(-62.437, 5.18848), cost 9.8337e+06 and lambda: 1
+X plus: 1.07728e+07 X minus: 8.97403e+06 X plus: 9.78876e+06 X minus: 9.87928e+06
+Iteration 368 with real MET:(234.465, 181.774) and MET:(-61.5816, 5.70645), cost 9.50099e+06 and lambda: 1
+X plus: 1.04063e+07 X minus: 8.67198e+06 X plus: 9.45276e+06 X minus: 9.54998e+06
+Iteration 369 with real MET:(234.465, 181.774) and MET:(-60.726, 6.22404), cost 9.17588e+06 and lambda: 1
+X plus: 1.00482e+07 X minus: 8.37677e+06 X plus: 9.12456e+06 X minus: 9.22809e+06
+Iteration 370 with real MET:(234.465, 181.774) and MET:(-59.8701, 6.74125), cost 8.85826e+06 and lambda: 1
+X plus: 9.69842e+06 X minus: 8.08832e+06 X plus: 8.80405e+06 X minus: 8.9135e+06
+Iteration 371 with real MET:(234.465, 181.774) and MET:(-59.014, 7.25806), cost 8.54804e+06 and lambda: 1
+X plus: 9.35687e+06 X minus: 7.80652e+06 X plus: 8.49114e+06 X minus: 8.60612e+06
+Iteration 372 with real MET:(234.465, 181.774) and MET:(-58.1577, 7.77447), cost 8.24512e+06 and lambda: 1
+X plus: 9.02344e+06 X minus: 7.53131e+06 X plus: 8.18572e+06 X minus: 8.30587e+06
+Iteration 373 with real MET:(234.465, 181.774) and MET:(-57.3011, 8.29045), cost 7.94941e+06 and lambda: 1
+X plus: 8.698e+06 X minus: 7.26259e+06 X plus: 7.88769e+06 X minus: 8.01264e+06
+Iteration 374 with real MET:(234.465, 181.774) and MET:(-56.4442, 8.806), cost 7.66081e+06 and lambda: 1
+X plus: 8.38047e+06 X minus: 7.00029e+06 X plus: 7.59695e+06 X minus: 7.72635e+06
+Iteration 375 with real MET:(234.465, 181.774) and MET:(-55.5871, 9.3211), cost 7.37923e+06 and lambda: 1
+X plus: 8.07072e+06 X minus: 6.7443e+06 X plus: 7.31341e+06 X minus: 7.44691e+06
+Iteration 376 with real MET:(234.465, 181.774) and MET:(-54.7297, 9.83574), cost 7.10457e+06 and lambda: 1
+X plus: 7.76865e+06 X minus: 6.49456e+06 X plus: 7.03696e+06 X minus: 7.17422e+06
+Iteration 377 with real MET:(234.465, 181.774) and MET:(-53.872, 10.3499), cost 6.83674e+06 and lambda: 1
+X plus: 7.47415e+06 X minus: 6.25098e+06 X plus: 6.7675e+06 X minus: 6.9082e+06
+Iteration 378 with real MET:(234.465, 181.774) and MET:(-53.014, 10.8636), cost 6.57564e+06 and lambda: 1
+X plus: 7.18713e+06 X minus: 6.01347e+06 X plus: 6.50495e+06 X minus: 6.64875e+06
+Iteration 379 with real MET:(234.465, 181.774) and MET:(-52.1557, 11.3768), cost 6.32118e+06 and lambda: 1
+X plus: 6.90747e+06 X minus: 5.78196e+06 X plus: 6.2492e+06 X minus: 6.39579e+06
+Iteration 380 with real MET:(234.465, 181.774) and MET:(-51.2971, 11.8894), cost 6.07327e+06 and lambda: 1
+X plus: 6.63507e+06 X minus: 5.55636e+06 X plus: 6.00015e+06 X minus: 6.14922e+06
+Iteration 381 with real MET:(234.465, 181.774) and MET:(-50.4382, 12.4015), cost 5.83182e+06 and lambda: 1
+X plus: 6.36983e+06 X minus: 5.33658e+06 X plus: 5.75771e+06 X minus: 5.90896e+06
+Iteration 382 with real MET:(234.465, 181.774) and MET:(-49.579, 12.9131), cost 5.59673e+06 and lambda: 1
+X plus: 6.11164e+06 X minus: 5.12256e+06 X plus: 5.52179e+06 X minus: 5.67493e+06
+Iteration 383 with real MET:(234.465, 181.774) and MET:(-48.7194, 13.4241), cost 5.36792e+06 and lambda: 1
+X plus: 5.8604e+06 X minus: 4.9142e+06 X plus: 5.29229e+06 X minus: 5.44703e+06
+Iteration 384 with real MET:(234.465, 181.774) and MET:(-47.8594, 13.9345), cost 5.1453e+06 and lambda: 1
+X plus: 5.61602e+06 X minus: 4.71143e+06 X plus: 5.06911e+06 X minus: 5.22518e+06
+Iteration 385 with real MET:(234.465, 181.774) and MET:(-46.9991, 14.4442), cost 4.92877e+06 and lambda: 1
+X plus: 5.37838e+06 X minus: 4.51416e+06 X plus: 4.85217e+06 X minus: 5.00929e+06
+Iteration 386 with real MET:(234.465, 181.774) and MET:(-46.1385, 14.9534), cost 4.71825e+06 and lambda: 1
+X plus: 5.14739e+06 X minus: 4.32233e+06 X plus: 4.64136e+06 X minus: 4.79927e+06
+Iteration 387 with real MET:(234.465, 181.774) and MET:(-45.2774, 15.4619), cost 4.51364e+06 and lambda: 1
+X plus: 4.92296e+06 X minus: 4.13585e+06 X plus: 4.4366e+06 X minus: 4.59505e+06
+Iteration 388 with real MET:(234.465, 181.774) and MET:(-44.4159, 15.9697), cost 4.31487e+06 and lambda: 1
+X plus: 4.70497e+06 X minus: 3.95463e+06 X plus: 4.2378e+06 X minus: 4.39653e+06
+Iteration 389 with real MET:(234.465, 181.774) and MET:(-43.554, 16.4768), cost 4.12184e+06 and lambda: 1
+X plus: 4.49333e+06 X minus: 3.77861e+06 X plus: 4.04485e+06 X minus: 4.20363e+06
+Iteration 390 with real MET:(234.465, 181.774) and MET:(-42.6917, 16.9832), cost 3.93446e+06 and lambda: 1
+X plus: 4.28795e+06 X minus: 3.60771e+06 X plus: 3.85769e+06 X minus: 4.01628e+06
+Iteration 391 with real MET:(234.465, 181.774) and MET:(-41.829, 17.4888), cost 3.75265e+06 and lambda: 1
+X plus: 4.08872e+06 X minus: 3.44185e+06 X plus: 3.6762e+06 X minus: 3.83438e+06
+Iteration 392 with real MET:(234.465, 181.774) and MET:(-40.9658, 17.9936), cost 3.57632e+06 and lambda: 1
+X plus: 3.89555e+06 X minus: 3.28095e+06 X plus: 3.50031e+06 X minus: 3.65785e+06
+Iteration 393 with real MET:(234.465, 181.774) and MET:(-40.1021, 18.4977), cost 3.4054e+06 and lambda: 1
+X plus: 3.70835e+06 X minus: 3.12493e+06 X plus: 3.32992e+06 X minus: 3.48661e+06
+Iteration 394 with real MET:(234.465, 181.774) and MET:(-39.2379, 19.0009), cost 3.23978e+06 and lambda: 1
+X plus: 3.52701e+06 X minus: 2.97373e+06 X plus: 3.16494e+06 X minus: 3.32059e+06
+Iteration 395 with real MET:(234.465, 181.774) and MET:(-38.3732, 19.5032), cost 3.07939e+06 and lambda: 1
+X plus: 3.35144e+06 X minus: 2.82727e+06 X plus: 3.0053e+06 X minus: 3.15969e+06
+Iteration 396 with real MET:(234.465, 181.774) and MET:(-37.508, 20.0046), cost 2.92415e+06 and lambda: 1
+X plus: 3.18156e+06 X minus: 2.68546e+06 X plus: 2.85089e+06 X minus: 3.00384e+06
+Iteration 397 with real MET:(234.465, 181.774) and MET:(-36.6423, 20.5051), cost 2.77397e+06 and lambda: 1
+X plus: 3.01726e+06 X minus: 2.54825e+06 X plus: 2.70163e+06 X minus: 2.85296e+06
+Iteration 398 with real MET:(234.465, 181.774) and MET:(-35.7759, 21.0046), cost 2.62877e+06 and lambda: 1
+X plus: 2.85845e+06 X minus: 2.41554e+06 X plus: 2.55745e+06 X minus: 2.70697e+06
+Iteration 399 with real MET:(234.465, 181.774) and MET:(-34.909, 21.503), cost 2.48846e+06 and lambda: 1
+X plus: 2.70505e+06 X minus: 2.28728e+06 X plus: 2.41824e+06 X minus: 2.56578e+06
+Iteration 400 with real MET:(234.465, 181.774) and MET:(-34.0415, 22.0004), cost 2.35297e+06 and lambda: 1
+X plus: 2.55695e+06 X minus: 2.16339e+06 X plus: 2.28393e+06 X minus: 2.42933e+06
+Iteration 401 with real MET:(234.465, 181.774) and MET:(-33.1734, 22.4967), cost 2.22221e+06 and lambda: 1
+X plus: 2.41406e+06 X minus: 2.04379e+06 X plus: 2.15443e+06 X minus: 2.29753e+06
+Iteration 402 with real MET:(234.465, 181.774) and MET:(-32.3045, 22.9919), cost 2.0961e+06 and lambda: 1
+X plus: 2.27631e+06 X minus: 1.92842e+06 X plus: 2.02966e+06 X minus: 2.17031e+06
+Iteration 403 with real MET:(234.465, 181.774) and MET:(-31.435, 23.4858), cost 1.97457e+06 and lambda: 1
+X plus: 2.14359e+06 X minus: 1.81719e+06 X plus: 1.90953e+06 X minus: 2.04759e+06
+Iteration 404 with real MET:(234.465, 181.774) and MET:(-30.5648, 23.9785), cost 1.85753e+06 and lambda: 1
+X plus: 2.01581e+06 X minus: 1.71005e+06 X plus: 1.79396e+06 X minus: 1.92929e+06
+Iteration 405 with real MET:(234.465, 181.774) and MET:(-29.6939, 24.4698), cost 1.74491e+06 and lambda: 1
+X plus: 1.8929e+06 X minus: 1.60692e+06 X plus: 1.68287e+06 X minus: 1.81533e+06
+Iteration 406 with real MET:(234.465, 181.774) and MET:(-28.8222, 24.9598), cost 1.63662e+06 and lambda: 1
+X plus: 1.77476e+06 X minus: 1.50773e+06 X plus: 1.57617e+06 X minus: 1.70565e+06
+Iteration 407 with real MET:(234.465, 181.774) and MET:(-27.9496, 25.4484), cost 1.53259e+06 and lambda: 1
+X plus: 1.6613e+06 X minus: 1.41241e+06 X plus: 1.47379e+06 X minus: 1.60016e+06
+Iteration 408 with real MET:(234.465, 181.774) and MET:(-27.0762, 25.9354), cost 1.43273e+06 and lambda: 1
+X plus: 1.55243e+06 X minus: 1.32089e+06 X plus: 1.37564e+06 X minus: 1.4988e+06
+Iteration 409 with real MET:(234.465, 181.774) and MET:(-26.202, 26.4209), cost 1.33698e+06 and lambda: 1
+X plus: 1.44808e+06 X minus: 1.2331e+06 X plus: 1.28165e+06 X minus: 1.40148e+06
+Iteration 410 with real MET:(234.465, 181.774) and MET:(-25.3268, 26.9047), cost 1.24526e+06 and lambda: 1
+X plus: 1.34814e+06 X minus: 1.14898e+06 X plus: 1.19172e+06 X minus: 1.30813e+06
+Iteration 411 with real MET:(234.465, 181.774) and MET:(-24.4507, 27.3868), cost 1.15749e+06 and lambda: 1
+X plus: 1.25255e+06 X minus: 1.06846e+06 X plus: 1.10579e+06 X minus: 1.21869e+06
+Iteration 412 with real MET:(234.465, 181.774) and MET:(-23.5735, 27.867), cost 1.07359e+06 and lambda: 1
+X plus: 1.16121e+06 X minus: 991458 X plus: 1.02378e+06 X minus: 1.13307e+06
+Iteration 413 with real MET:(234.465, 181.774) and MET:(-22.6953, 28.3453), cost 993488 and lambda: 1
+X plus: 1.07404e+06 X minus: 917921 X plus: 945602 X minus: 1.05121e+06
+Iteration 414 with real MET:(234.465, 181.774) and MET:(-21.816, 28.8215), cost 917113 and lambda: 1
+X plus: 990960 X minus: 847779 X plus: 871182 X minus: 973036
+Iteration 415 with real MET:(234.465, 181.774) and MET:(-20.9355, 29.2956), cost 844390 and lambda: 1
+X plus: 911882 X minus: 780965 X plus: 800443 X minus: 898475
+Iteration 416 with real MET:(234.465, 181.774) and MET:(-20.0538, 29.7674), cost 775244 and lambda: 1
+X plus: 836725 X minus: 717413 X plus: 733307 X minus: 827456
+Iteration 417 with real MET:(234.465, 181.774) and MET:(-19.1709, 30.2368), cost 709603 and lambda: 1
+X plus: 765408 X minus: 657058 X plus: 669699 X minus: 759911
+Iteration 418 with real MET:(234.465, 181.774) and MET:(-18.2865, 30.7037), cost 647393 and lambda: 1
+X plus: 697850 X minus: 599835 X plus: 609542 X minus: 695768
+Iteration 419 with real MET:(234.465, 181.774) and MET:(-17.4007, 31.1678), cost 588542 and lambda: 1
+X plus: 633971 X minus: 545679 X plus: 552761 X minus: 634959
+Iteration 420 with real MET:(234.465, 181.774) and MET:(-16.5134, 31.629), cost 532979 and lambda: 1
+X plus: 573689 X minus: 494524 X plus: 499279 X minus: 577415
+Iteration 421 with real MET:(234.465, 181.774) and MET:(-15.6245, 32.087), cost 480632 and lambda: 1
+X plus: 516927 X minus: 446308 X plus: 449023 X minus: 523068
+Iteration 422 with real MET:(234.465, 181.774) and MET:(-14.7339, 32.5418), cost 431431 and lambda: 1
+X plus: 463604 X minus: 400967 X plus: 401918 X minus: 471850
+Iteration 423 with real MET:(234.465, 181.774) and MET:(-13.8414, 32.9929), cost 385304 and lambda: 1
+X plus: 413642 X minus: 358437 X plus: 357890 X minus: 423693
+Iteration 424 with real MET:(234.465, 181.774) and MET:(-12.947, 33.4402), cost 342182 and lambda: 1
+X plus: 366963 X minus: 318654 X plus: 316864 X minus: 378530
+Iteration 425 with real MET:(234.465, 181.774) and MET:(-12.0505, 33.8832), cost 301995 and lambda: 1
+X plus: 323490 X minus: 281557 X plus: 278767 X minus: 336295
+Iteration 426 with real MET:(234.465, 181.774) and MET:(-11.1518, 34.3217), cost 264673 and lambda: 1
+X plus: 283145 X minus: 247082 X plus: 243526 X minus: 296922
+Iteration 427 with real MET:(234.465, 181.774) and MET:(-10.2507, 34.7552), cost 230148 and lambda: 1
+X plus: 245852 X minus: 215167 X plus: 211067 X minus: 260343
+Iteration 428 with real MET:(234.465, 181.774) and MET:(-9.34691, 35.1833), cost 198350 and lambda: 1
+X plus: 211534 X minus: 185750 X plus: 181317 X minus: 226495
+Iteration 429 with real MET:(234.465, 181.774) and MET:(-8.44032, 35.6053), cost 169211 and lambda: 1
+X plus: 180116 X minus: 158769 X plus: 154203 X minus: 195312
+Iteration 430 with real MET:(234.465, 181.774) and MET:(-7.53063, 36.0206), cost 142662 and lambda: 1
+X plus: 151520 X minus: 134161 X plus: 129650 X minus: 166729
+Iteration 431 with real MET:(234.465, 181.774) and MET:(-6.61754, 36.4284), cost 118635 and lambda: 1
+X plus: 125672 X minus: 111864 X plus: 107586 X minus: 140681
+Iteration 432 with real MET:(234.465, 181.774) and MET:(-5.70068, 36.8276), cost 97060.2 and lambda: 1
+X plus: 102495 X minus: 91816.5 X plus: 87933.8 X minus: 117105
+Iteration 433 with real MET:(234.465, 181.774) and MET:(-4.77964, 37.2171), cost 77869.4 and lambda: 1
+X plus: 81913.9 X minus: 73954.5 X plus: 70619.2 X minus: 95935.6
+Iteration 434 with real MET:(234.465, 181.774) and MET:(-3.8539, 37.5952), cost 60992.8 and lambda: 1
+X plus: 63851.8 X minus: 58215 X plus: 55564 X minus: 77109.6
+Iteration 435 with real MET:(234.465, 181.774) and MET:(-2.92282, 37.96), cost 46360.2 and lambda: 1
+X plus: 48231.8 X minus: 44533.4 X plus: 42688.2 X minus: 60563.2
+Iteration 436 with real MET:(234.465, 181.774) and MET:(-1.98562, 38.3088), cost 33899.6 and lambda: 1
+X plus: 34975.2 X minus: 32843.9 X plus: 31907.8 X minus: 46233.1
+Iteration 437 with real MET:(234.465, 181.774) and MET:(-1.04128, 38.6378), cost 23537.1 and lambda: 1
+X plus: 24001.5 X minus: 23078 X plus: 23133 X minus: 34056.1
+Iteration 438 with real MET:(234.465, 181.774) and MET:(-0.0885193, 38.9415), cost 15195.3 and lambda: 1
+X plus: 15226.5 X minus: 15164 X plus: 16264.3 X minus: 23970
+Iteration 439 with real MET:(234.465, 181.774) and MET:(0.874362, 39.2114), cost 8790.64 and lambda: 1
+X plus: 8560.28 X minus: 9024.34 X plus: 11185.5 X minus: 15914.6
+Iteration 440 with real MET:(234.465, 181.774) and MET:(1.8495, 39.433), cost 4229.54 and lambda: 1
+X plus: 3901.77 X minus: 4571.38 X plus: 7748.31 X minus: 9835.39
+Iteration 441 with real MET:(234.465, 181.774) and MET:(2.83898, 39.5777), cost 1397.86 and lambda: 1
+X plus: 1127.59 X minus: 1699.15 X plus: 5733.05 X minus: 5696.38
+Iteration 442 with real MET:(234.465, 181.774) and MET:(3.83897, 39.5731), cost 133.698 and lambda: 1
+X plus: 56.9058 X minus: 262.739 X plus: 4710.79 X minus: 3542.76
+Iteration 443 with real MET:(234.465, 181.774) and MET:(4.71501, 39.0908), cost 151.426 and lambda: 1
+X plus: 638563 X minus: 594640 X plus: 731040 X minus: 523505
+Iteration 444 with real MET:(234.465, 181.774) and MET:(24.2635, 58.1985), cost 577507 and lambda: 1
+Solution found!
+Total number of events: 1
+The top was reconstructed in 100% of the times
+MassSolver_class: destructor executing!
